@@ -1,0 +1,11 @@
+<?php if($count == 0):?>
+<table class="container" bgcolor="#ffffff" style="background-color:#ffffff">
+  <tr>
+    <td>
+      <table class="block-grid three-up">
+        <tr><?php endif ?><td <?php if($count == 2):?>class="last"<?php endif ?>><span><a href="<?= $link ?>"><h6><?= $title ?></h6></a><p><?= $place ?></p><br /><p><?= $date ?></p></span></td><?php if($count == 2):?></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<?php endif ?>

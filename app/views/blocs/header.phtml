@@ -1,0 +1,52 @@
+<table class="container" bgcolor="#ffffff" style="background-color:#ffffff">
+  <tr>
+    <td>
+      <!--HEADER-->
+      <table class="row header" bgcolor="#ffffff" style="background-color:#ffffff">
+        <tr>
+          <td class="wrapper">
+            <table class="seven columns">
+              <tr>
+                <td>
+                  <a href="<?= Atomik::url($link)?>"><img src="<?= $logo ?>"/></a>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+          </td>
+          <td class="wrapper last" style="vertical-align:middle">
+            <table class="four columns">
+              <tr>
+                <td>
+                  <table class="button">
+                    <tr>
+                      <td>
+                         <a href="<?= Atomik::url($subscribeLink)?>"><?= Atomik\Translations::translate('ABONNEZ-VOUS')?></a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <table class="row date">
+        <tr>
+         <td class="wrapper last offset-by-five">
+           <table class="seven columns">
+             <tr>
+               <td class="right-text-pad">
+                 <?= $this->formatDate($locale, $template, $issue)?>
+               </td>
+               <td class="expander"></td>
+             </tr>
+           </table>
+         </td>
+        </tr>
+      </table>
+      <!--/HEADER-->
+    </td>
+  </tr>
+</table>

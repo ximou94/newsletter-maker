@@ -1,0 +1,6 @@
+<h1>Nouveau Flash <?= $issue;?></h1>
+<?= $form = $this->form($this->url('/create/flash/:issue',array('issue'=>$issue)))?>
+ <div class="form-group">
+<?= $form->input('url','','text',array('class'=>'form-control','placeholder'=>'Entrez l\'url de vortre article'))?>
+</div>
+<?= $form->button('créer','submit', array('class' =>'btn btn-primary col-md-offset-11 btn-lg')); ?>

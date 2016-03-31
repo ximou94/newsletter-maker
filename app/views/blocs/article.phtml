@@ -1,0 +1,67 @@
+
+<table class="container block" bgcolor="#ffffff" style="background-color:#ffffff;">
+  <tr>
+    <td>
+      <!-- ARTICLE-->
+      <table class="row">
+        <tr>
+          <td class="wrapper">
+            <table class="four columns">
+              <tr>
+                <td class="text-pad">
+                  <img src="<?= $img ?>" width="180" height="90"/>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+          </td>
+          <td class="wrapper last">
+            <table class="seven columns">
+              <tr>
+                <td class="text-pad">
+                  <h6><?= $title ?></h6>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <table class="row">
+        <tr>
+          <td class="wrapper last">
+            <table class="twelve columns">
+              <tr>
+                <td class="text-pad">
+                  <span class="subtitle"><?= $subtitle ?></span>  <p><?= $text ?></p>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <table class="row">
+        <tr>
+          <td class="wrapper offset-by-nine last">
+            <table class="three columns">
+              <tr>
+                <td class="text-pad">
+                  <table class="button">
+                    <tr>
+                      <td>
+                        <a href="<?= $this->analytics(Atomik::url($link),$section,$count)?>"><?= Atomik\Translations::translate('Lire la suite')?></a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <!--/ARTICLE-->
+    </td>
+  </tr>
+</table>

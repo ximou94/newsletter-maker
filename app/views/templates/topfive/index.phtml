@@ -1,0 +1,9 @@
+<h1>Nouveau Top5 <?= $issue;?></h1>
+<?= $form = $this->form($this->url('/create/topfive/:issue',array('issue'=>$issue)))?>
+<?php for ($i=0; $i < 5; $i++):  ?>
+  <div class="form-group">
+ <?= $form->input('url'.$i,'','text',array('class'=>'form-control','placeholder'=>'Entrez l\'url de vortre article'))?>
+ </div>
+<?php endfor ?>
+
+<?= $form->button('créer','submit', array('class' =>'btn btn-primary col-md-offset-11 btn-lg')); ?>

@@ -1,0 +1,58 @@
+<table class="container block" bgcolor="#ffffff" style="background-color:#ffffff">
+  <tr>
+    <td>
+      <!--HERO-->
+      <table class="row">
+        <tr>
+          <td class="wrapper last">
+            <table class="twelve columns">
+              <tr>
+                <td class="text-pad">
+                  <h4><?= $title ?></h4>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+            <table class="twelve columns">
+              <tr>
+                <td class="text-pad">
+                  <img  width="560" height="300" src="<?= $img ?>" style="width:560px;height:auto"/>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+            <table class="twelve columns">
+              <tr>
+                <td class="text-pad">
+                  <p class="lead"><?= $text ?></p>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <table class="row">
+        <tr>
+          <td class="wrapper last">
+            <table class="twelve columns">
+              <tr>
+                <td class="text-pad">
+                  <table class="medium-button radius secondary">
+                    <tr>
+                      <td>
+                        <a href="<?= $this->analytics(Atomik::url($link),$section,$count)?>"><?= Atomik\Translations::translate('Lire la suite')?></a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <!--/HERO-->
+    </td>
+  </tr>
+</table>

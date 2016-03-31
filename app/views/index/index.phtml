@@ -1,0 +1,67 @@
+
+<div class="row">
+  <h1>Selectionner un Gabarit</h1>
+    <a href="<?= Atomik::url('issues')?>" class="btn btn-default pull-right"  style="margin-bottom:25px;" aria-label="Left Align"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Ajouter une revue</a>
+</div>
+
+     <?php $count=0?>
+   <?php foreach ($newsletters as $k => $j): ?>
+
+     <?php if($count % 3 == 0):?>
+
+  <div class="row">
+<?php endif ?>
+      <?php $count++ ?>
+
+
+     <div class="col-md-4">
+       <div class="jumbotron">
+         <div class="jumbotron-photo">
+           <img src="<?= $this->escape($j["logo"])?>" style="max-width:360px"/>
+         </div>
+         <div class="jumbotron-contents">
+           <?= $form = $this->form($this->url('@default'))?>
+             <h1><?= $this->escape($j['name'])?></h1>
+             <div class="col-md-6">
+               <div class="checkbox ">
+                 <label for="newsletter-input">
+                 <?= $form->checkbox('template',false,'newsletter')?>Newsletter
+                 </label>
+               </div>
+             </div>
+             <div class="col-md-6">
+               <div class="checkbox ">
+                 <label for="flash-input">
+                   <?= $form->checkbox('template',false,'flash')?>Flash
+                 </label>
+               </div>
+             </div>
+             <div class="col-md-6">
+               <div class="checkbox ">
+                 <label for="flash-input">
+                   <?= $form->checkbox('template',false,'topfive')?>Top5
+                 </label>
+               </div>
+             </div>
+             <div class="col-md-6">
+               <div class="checkbox ">
+                 <label for="flash-input">
+                   <?= $form->checkbox('template',false,'rh')?>Rh
+                 </label>
+               </div>
+             </div>
+             <?= $form->hidden('issue',$j['name'])?>
+             <?= $form->button('envoyer','submit', array('class' =>'btn btn-primary col-md-offset-9')); ?>
+           </form>
+         </div>
+       </div>
+     </div>
+     <?php if($count % 3 == 0):?>
+  </div>
+<?php endif ?>
+
+
+   <?php endforeach ?>
+
+
+</div>

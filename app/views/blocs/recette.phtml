@@ -1,0 +1,36 @@
+
+<?php if ($count === 0) {
+ echo '<table class="container" bgcolor="#ffffff" style="background-color:#ffffff">
+   <tbody><tr>
+     <td><table class="row">
+  						  <tr>';
+}?>
+<!--AGENDA-->
+
+  <td class="wrapper">
+    <table class="six columns">
+      <tr>
+        <td class="text-pad" colspan="2">
+
+                <h6><?= $title ?></h6>
+        </td>
+        <td class="expander"></td>
+      </tr>
+      <tr>
+        <td class="text-pad six sub-columns">
+          <img src="<?= $img ?>" width="115" height="115"/>
+        </td>
+        <td class="text-pad six sub-columns last">
+          <p><?= $text ?></p>
+        </td>
+        <td class="expander"></td>
+      </tr>
+    </table>
+  </td>
+  <?php if ($count === 1) {
+   echo '						  </tr>
+						</table></td>
+            </tr>
+            </table>';
+  }?>
+<!--/AGENDA-->

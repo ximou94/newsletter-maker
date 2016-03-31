@@ -1,0 +1,289 @@
+{
+
+  "audio": {
+     "name": "audio",
+     "color": "#961325",
+     "paragraph" : 2,
+     "subscribeLink" : "http://abos.edpsante.com/audio-infos-france.htm",
+     "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
+     "banners": {
+       "newsletter":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/OTO_Service_Banner_FR_728x90px.jpg",
+         "leaderBannerLink":"http://www.otometrics.fr/Service",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/00601_069_Banniere+Web_Oct+2015_580x79-banniere-fixe.jpg",
+         "banner2Link":"https://www.phonakpro.com/fr/b2b/fr/products/hearing_instruments/virto-v/hearing-aid.html?utm_source=AudioInfos&utm_medium=Banniere&utm_term=Saison32015&utm_content=Newsletter&utm_campaign=phonak"
+       },
+       "rh":{
+         "logo": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/banner-abo-rh.jpg",
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/JNA-banniere.png",
+         "leaderBannerLink":"http://www.journee-audition.org/",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/itelis.png",
+         "banner2Link":"http://www.itelis.fr/index.php/espace_professionnels_de_sante/voulez_vous_devenir_partenaire"
+       },
+       "flash":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/OTO_Service_Banner_FR_728x90px.jpg",
+         "leaderBannerLink":"http://www.otometrics.fr/Service",
+         "banner1":"",
+         "banner2":""
+       },
+       "topfive":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/OTO_Service_Banner_FR_728x90px.jpg",
+         "leaderBannerLink":"http://www.otometrics.fr/Service",
+         "banner1":"",
+         "banner2":""
+       }
+     },
+     "url_base": "http:\/\/www.edp-audio.fr\/",
+     "sections": {
+        "newsletter": ["une","actualites","annonces","agenda"],
+        "rh"        : ["une","offres","demandes"]
+     },
+     "companies": {
+       "agir-pour-audition" : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/agir-pour-audition.jpg",
+       "audika"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/logo-fond-audika.jpg",
+       "audition-sante"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-sante.jpg",
+       "audition-conseil"   : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-conseil.jpg",
+       "audition-mutualiste": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-mutualiste4156.jpg",
+       "acuitis"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Logo_Acousticentre_Baseline.jpg",
+       "demande"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/bonhomme_et_sa_grosse_loupe_2.jpg",
+       "audition-active"    : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/logo-AA.jpg",
+       "audio-2000"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-audio-2000v2.jpg",
+       "dyapason"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/dyapason-logo.jpg",
+       "otometrics"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/otometrics-logo.jpg",
+       "mutualite-francaise": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-mutualite-francaise.jpg"
+
+     }
+  },
+
+  "audiology": {
+     "name": "audiology",
+     "color": "#961325",
+     "subscribeLink" : "http://abos.edpsante.com/audiology-infos.htm",
+     "paragraph" : 2,
+     "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_audiology_infos.png",
+     "banners": {
+       "newsletter":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/audiown-promo.jpg",
+         "leaderBannerLink":"http://www.audiology-worldnews.com",
+         "banner2":"",
+         "banner2Link":""
+       },
+       "RH":{
+         "leaderBanner":"http://www.edp-audio.fr/images/banners/BeFlex_Banner_FR_728x90_animated.gif",
+         "leaderBannerLink":"http://fr.bernafon.com/Consumers.aspx",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/itelis.png",
+         "banner2Link":"http://www.itelis.fr/index.php/espace_professionnels_de_sante/voulez_vous_devenir_partenaire"
+       },
+       "flash":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/on_target_banner_728x90px_fixe-0104.jpg",
+         "leaderBannerLink":"http://www.otometrics.com/hearing-aid-fitting/hearing-aid-fitting-real-ear-measurement",
+         "banner1":"",
+         "banner2":""
+       }
+     },
+     "url_base": "http:\/\/www.edp-audio.fr\/",
+     "sections": {
+        "newsletter": ["une","actualites","agenda"],
+        "rh"        : ["une","annonces"]
+     },
+     "companies": {
+       "agir-pour-audition" : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/agir-pour-audition.jpg",
+       "audika"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/Audika-logo-WEB.jpg"
+     }
+  },
+
+  "biologiste": {
+     "name": "biologiste",
+     "color": "#006B5D",
+     "subscribeLink" : "http://abos.edpsante.com/biologiste-infos.htm",
+     "paragraph" : 1,
+     "logo": "http://www.edp-biologie.fr/templates/magbio/images/logos/logo_edpbio.png",
+     "banners": {
+       "newsletter":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/banniere-biologiste-info.png",
+         "leaderBannerLink":"http://www.sil-lab-experts.com/nos-fiches-produits/logiciels",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/werfen.jpg",
+         "banner2Link":"http://fr.werfen.com/",
+         "squareBanner1":"http://www.edp-biologie.fr/images/banners/Bandeau_BI_AccrediWorld.jpg",
+         "squareBanner1link":"http://www.bdaccrediworld.com/fr#/pre-home-fr",
+         "squareBanner2":"http://www.edp-biologie.fr/images/banners/Le-biologiste-medical_Banniere-300-x-300.gif",
+         "squareBanner2link":"http://laboutique.edpsciences.fr/produit/795/9782759816699/Le%20biologiste%20medical%20nouveau%20manager%20de%20son%20laboratoire",
+         "squareBanner3":"http://www.edp-biologie.fr/images/banners/bannierepresse160070.png",
+         "squareBanner3link":"https://www.workspace.swe.siemens.com/content/10000003/academie/default.aspx",
+         "squareBanner4":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/annonces_d_emploi.jpg",
+         "squareBanner4link":"http://www.edp-biologie.fr/annonce"
+       },
+       "RH":{
+         "leaderBanner":"",
+         "banner1":"",
+         "banner2":""
+       },
+       "flash":{
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/banniere-biologiste-info.png",
+         "leaderBannerLink":"http://www.sil-lab-experts.com/nos-fiches-produits/logiciels",
+         "banner2":""
+       }
+     },
+     "url_base": "http:\/\/www.edp-biologie.fr\/",
+     "sections": {
+        "newsletter": ["une","actualites","produits","publireportages","video","agenda"]
+     }
+  },
+
+  "nutrition": {
+     "name": "nutrition",
+     "color": "#F3BC00",
+     "subscribeLink" : "http://abos.edpsante.com/nutrition-infos.htm",
+     "paragraph" : 1,
+     "logo": "http://www.edp-nutrition.fr/templates/magnutr/images/logos/logo_edpnutr.png",
+     "banners": {
+       "newsletter":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/SES16_Ban2-728x90.jpg",
+         "leaderBannerLink":"http://www.silver-eco-show.fr/",
+         "banner1":""
+       },
+       "RH":{
+         "leaderBanner":"",
+         "banner1":"",
+         "banner2":""
+       },
+       "flash":{
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/banniere_NL_aboelectronique_nutinfos_728X90.jpg",
+         "leaderBannerLink":"http://abos.edpsante.org/nutrition-infos.htm",
+         "banner2":""
+       }
+     },
+     "url_base": "http:\/\/www.edp-nutrition.fr\/",
+     "sections": {
+        "newsletter": ["une","actualites","breves","produits","recettes","agenda"]
+     }
+  },
+
+  "audition": {
+     "name": "audition",
+     "color": "#EE9601",
+     "paragraph" : 5,
+     "logo": "http://www.audition-infos.org/images/logo.png",
+     "url_base": "http://www.audition-infos.org/",
+     "sections": {
+        "newsletter": ["une","actualites","agenda"]
+     }
+  },
+
+  "EAR":{
+     "name": "EAR",
+     "color": "#6E1F6C",
+     "subscribeLink" : "http://abos.edpsante.com/l-essentiel-l-anesthesie-reanimation-1-an-version-papier.htm",
+     "logo": "http://www.lessentiel-anesthesie-reanimation.fr/templates/magrea/images/logos/logo_magrea.png",
+     "url_base": "http://www.lessentiel-anesthesie-reanimation.fr/"
+  },
+
+  "audiologyWN":{
+     "name": "audiologyWN",
+     "color": "#B41F1F",
+     "paragraph" : 2,
+     "logo": "http://www.audiology-worldnews.com/templates/audiown/images/logo.png",
+     "banners": {
+       "newsletter":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Varta_banner_news_awn_2016.jpg",
+         "banner1":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Widex_Banner_630x315.png"
+       }
+     },
+     "url_base": "http://www.audiology-worldnews.com/",
+     "sections": {
+        "newsletter": ["une","actualites","agenda"]
+     }
+  },
+
+  "audiologyBR":{
+     "name": "audiologyBR",
+     "color": "#659DED",
+     "logo": "http://www.audiology-infos.br.com/templates/audiobr/images/logo.png",
+     "url_base": "http://www.audiology-infos.br.com/",
+     "sections": {
+        "newsletter": ["une","actualites"]
+     }
+  },
+
+  "audiologyIT":{
+     "name": "audiologyIT",
+     "color": "#659DED",
+     "paragraph" : 1,
+     "logo": "http://www.audiology-infos.it/templates/audioit/images/logo.png",
+     "url_base": "http://www.audiology-infos.it/",
+     "sections": {
+        "newsletter": ["une","actualites","produits","agenda"]
+     }
+  },
+
+  "audiologyDE":{
+     "name": "audiologyDE",
+     "color": "#E47004",
+     "subscribeLink" : "http://abos.edpsante.com/audio-infos-deutschland.htm",
+     "paragraph" : 1,
+     "logo": "http://www.audio-infos.de/templates/audiode/images/logo.png",
+     "url_base": "http://www.audio-infos.de/",
+     "sections": {
+        "newsletter": ["une","actualites"]
+     }
+  },
+
+  "dentaire":{
+     "name": "dentaire",
+     "color": "#00BFD7",
+     "paragraph" : 0,
+     "logo": "http://www.edp-dentaire.fr/templates/magdent/images/logos/logo_edpdent.png",
+     "banners": {
+       "newsletter":{
+         "leaderBanner": "http://eml.edpsciences.org/EDP%20Sante%20Aix/newsletter-portail-EDPdentaire/News-10-2014/banniere-w&h-haut.jpg",
+         "leaderBannerLink":"http://www.edp-dentaire.fr/component/content/article?id=1602",
+         "banner2":"",
+         "banner2Link":""
+       },
+       "RH":{
+         "leaderBanner":"",
+         "banner1":"",
+         "banner2":""
+       },
+       "flash":{
+         "leaderBanner": "",
+         "leaderBannerLink":"",
+         "banner1":"",
+         "banner2":""
+       }
+     },
+     "url_base": "http://www.edp-dentaire.fr/",
+     "sections": {
+        "newsletter": ["Une","actualites","produits","Gestion & nomenclature","Management & communication","Cabinet du mois"]
+     }
+  },
+
+  "pharma":{
+     "name": "pharma",
+     "color": "#D71634",
+     "subscribeLink" : "http://abos.edpsante.com/profession-pharmacien.htm",
+     "logo": "http://www.profession-pharmacien.fr/templates/pphar/images/logos/logo_pphar.png",
+     "url_base": "http://www.profession-pharmacien.fr/",
+     "sections": {
+        "newsletter": ["une","actualites","equipement","entretien pharmaceutique","orthopedie"]
+     }
+  },
+
+  "audioenportada":{
+     "name": "audioenportada",
+     "color": "#E8E8E8",
+     "paragraph" : 1,
+     "logo": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/logo-audio-en-portada.png",
+     "banners": {
+       "newsletter":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Expooptica2016-728x90_ok.gif",
+         "leaderBannerLink":"http://www.ifema.es/expooptica_01/"
+       }
+     },
+     "url_base": "http://www.audioenportada.com/",
+     "sections": {
+        "newsletter": ["une","actualites"]
+     }
+  }
+
+}

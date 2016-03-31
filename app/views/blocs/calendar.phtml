@@ -1,0 +1,47 @@
+
+<?php if ($count === 0) {
+ echo '<table class="container" bgcolor="#ffffff" style="background-color:#ffffff">
+   <tbody><tr>
+     <td><table class="row">
+  						  <tr>';
+}?>
+<!--AGENDA-->
+  <?php if($count == 2){echo'<td class="wrapper last">';}else{echo '<td class="wrapper">';}?>
+    <table class="four columns">
+      <tr>
+        <td class="panel" colspan="2">
+            <a href="<?= $link ?>"><h6><?= $title ?></h6></a>
+        </td>
+        <td class="expander"></td>
+      </tr>
+      <tr>
+        <td class="panel two sub-columns">
+          <img src="http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/sign-post.png" width="8" height="15"/>
+        </td>
+        <td class="panel ten sub-columns last">
+          <p>Paris</p>
+        </td>
+        <td class="expander"></td>
+      </tr>
+
+      <tr>
+        <td class="panel two sub-columns">
+          <img src="http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/sign-date.png" width="8" height="15"/>
+        </td>
+        <td class="panel ten sub-columns last">
+          <p><?= $date ?></p>
+        </td>
+        <td class="expander"></td>
+      </tr>
+    </table>
+  </td>
+  <?php if ($count === 2) {
+   echo '						  </tr>
+						</table>
+      <table class="row">
+        <tr>
+          <td class="wrapper"></td></tr></table></td>
+            </tr>
+            </table>';
+  }?>
+<!--/AGENDA-->

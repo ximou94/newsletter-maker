@@ -1,0 +1,40 @@
+<div class="container">
+  <h1>Nouvelle newsletter RH <?= $issue;?></h1>
+	<div class="row">
+  	<form role="form" action="<?= $this->url('/create/rh/:issue',array('issue'=>$issue)); ?>" method="POST">
+  		<?php $i=0;foreach ($sections as $array => $section):?>
+  	  <label><h3><?= $section?></h3></label>
+  	    <div class="multi-field-wrapper">
+  	      <div class="multi-fields entry input-group col-md-12">
+  	        <div class="multi-field form-group input-group col-md-12">
+  	          <input type="text" name="rh<?=$section?>[]" class="form-control "/>
+  						<span class="input-group-btn">
+  		          <button type="button" class="remove-field btn btn-danger btn-remove">
+  									<span class="glyphicon glyphicon-minus"></span>
+  							</button>
+                <!-- Split button -->
+              </span>
+
+              <div class="col-md-4">
+                  <select class="form-control" name="rh<?=$section?>[]">
+                    <?php foreach ($companies as $name => $url):?>
+                      <option value="<?= $url?>"><?= $name ?> </option>
+                    <?php endforeach ?>
+                  </select>
+          </div>
+        </div>
+  	      </div>
+  				<div class="input_fields_wrap">
+  	         <button type="button" class="add-field btn btn-success btn-add"> <span class="glyphicon glyphicon-plus"></span> Ajouter un champ</button>
+          </div>
+
+      </div>
+  		<?php $i++;endforeach ?>
+  		<div class="form-group">
+        <div class="col-xs-offset-8 col-xs-2">
+          <button type="submit" class="btn btn-primary btn-block btn-lg">Créer</button>
+        </div>
+      </div>
+  </form>
+	</div>
+</div>
