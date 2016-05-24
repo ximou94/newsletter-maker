@@ -15,6 +15,14 @@ class AudiologyController extends IssuesController{
     parent::index();
   }
 
+  public function video($url){
+    if ($this->count === 0) {
+      BlocsController::section('vidéos');
+    }
+    BlocsController::article($url,'blocs/article');
+     $this->count++;
+  }
+
 }
 
  ?>

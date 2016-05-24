@@ -10,15 +10,15 @@
        "newsletter":{
          "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/OTO_Service_Banner_FR_728x90px.jpg",
          "leaderBannerLink":"http://www.otometrics.fr/Service",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/00601_069_Banniere+Web_Oct+2015_580x79-banniere-fixe.jpg",
-         "banner2Link":"https://www.phonakpro.com/fr/b2b/fr/products/hearing_instruments/virto-v/hearing-aid.html?utm_source=AudioInfos&utm_medium=Banniere&utm_term=Saison32015&utm_content=Newsletter&utm_campaign=phonak"
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/01532_043_BANNIERE_WEB_2016_SAISON_580x79_fixe.jpg",
+         "banner2Link":"https://www.phonakpro.com/fr/b2b/fr/products/hearing_instruments/sky-v/hearing-aid.html?utm_source=AudioInfos&utm_medium=Banniere&utm_term=Saison12016&utm_content=newsletter&utm_campaign=phonak"
        },
        "rh":{
-         "logo": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/banner-abo-rh.jpg",
-         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/JNA-banniere.png",
-         "leaderBannerLink":"http://www.journee-audition.org/",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/itelis.png",
-         "banner2Link":"http://www.itelis.fr/index.php/espace_professionnels_de_sante/voulez_vous_devenir_partenaire"
+         "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/rayovac-proline.png",
+         "leaderBannerLink":"http://www.extraadvanced.eu/fr",
+         "banner2":"",
+         "banner2Link":""
        },
        "flash":{
          "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/OTO_Service_Banner_FR_728x90px.jpg",
@@ -40,15 +40,18 @@
      },
      "companies": {
        "agir-pour-audition" : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/agir-pour-audition.jpg",
+       "amplifon"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Amplifon-logo.jpg",
        "audika"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/logo-fond-audika.jpg",
        "audition-sante"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-sante.jpg",
        "audition-conseil"   : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-conseil.jpg",
        "audition-mutualiste": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-mutualiste4156.jpg",
        "acuitis"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Logo_Acousticentre_Baseline.jpg",
        "demande"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/bonhomme_et_sa_grosse_loupe_2.jpg",
+       "entendre"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-entendre.jpg",
        "audition-active"    : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/logo-AA.jpg",
        "audio-2000"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-audio-2000v2.jpg",
        "dyapason"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/dyapason-logo.jpg",
+       "krys-audition"      : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/krys-audition.jpg",
        "otometrics"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/otometrics-logo.jpg",
        "optical"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-optical-center-2.jpg",
        "phonak"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Logo_Phonak_life.jpg",
@@ -85,7 +88,7 @@
      },
      "url_base": "http:\/\/www.edp-audio.fr\/",
      "sections": {
-        "newsletter": ["une","actualites","agenda"],
+        "newsletter": ["une","actualites","video","agenda"],
         "rh"        : ["une","annonces"]
      },
      "companies": {
@@ -150,8 +153,8 @@
          "banner2":""
        },
        "flash":{
-         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/banniere_NL_aboelectronique_nutinfos_728X90.jpg",
-         "leaderBannerLink":"http://abos.edpsante.org/nutrition-infos.htm",
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/banniere-uniliver-news.jpg",
+         "leaderBannerLink":"http://www.unilever-pro-nutrition-sante.fr/choix-thematiques-outils-professionels-nutrition-sante/",
          "banner2":""
        }
      },
@@ -187,8 +190,16 @@
      "logo": "http://www.audiology-worldnews.com/templates/audiown/images/logo.png",
      "banners": {
        "newsletter":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Varta_banner_news_awn_2016.jpg",
-         "banner1":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Widex_Banner_630x315.png"
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/VMpo_Web-Banner_Audiology_5.2016_725x90_p.jpg",
+         "leaderBannerLink":"http://www.powerone-batteries.com/",
+         "banner1":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Widex_Banner_630x315.png",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Widex_Banner_630x315.png",
+         "banner2Link":"http://www.widex.pro/en/products/unique-hearing-aids"
+
+       },
+       "flash":{
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/VMpo_Web-Banner_Audiology_5.2016_725x90_p.jpg",
+         "leaderBannerLink":"http://www.powerone-batteries.com/"
        }
      },
      "url_base": "http://www.audiology-worldnews.com/",
@@ -273,9 +284,9 @@
 
   "audioenportada":{
      "name": "audioenportada",
-     "color": "#E8E8E8",
+     "color": "#E87524",
      "paragraph" : 1,
-     "logo": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/logo-audio-en-portada.png",
+     "logo": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-audioenportada-25.jpg",
      "banners": {
        "newsletter":{
          "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Expooptica2016-728x90_ok.gif",

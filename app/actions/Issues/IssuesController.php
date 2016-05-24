@@ -61,15 +61,9 @@ class IssuesController extends Atomik\Controller\Controller{
              }
             $this->$key($url,$img);
            }
-
            $this->count = 0;
          }
        Atomik::set('backgroundColor', '#E9E9E9');
-      /* foreach ($_POST as $key => $value) {
-            foreach ($value as $num => $url) {
-                $this->$key($value['url'],$value[$num]);
-            }
-         }*/
        break;
      case 'newsletter':
        foreach ($_POST as $key => $value) {
@@ -115,13 +109,8 @@ class IssuesController extends Atomik\Controller\Controller{
     BlocsController::calendar($url,'blocs/calendar2');
     $this->count++;
   }
-/*
-  public function newMagazine($name,$color,$baseUrl){
-    $data = $name = array('name' => $name, 'color'=> $color, 'url_base' => $baseUrl);
-    file_put_contents(Atomik::get('base_dir').'/app/models/magazines.json',json_encode($data));
-  }
-*/
-  // GETTERS & SETTERS
+
+//GETTERS & SETTERS
 
   public function setName($name){
     $this->_name = $name;
@@ -211,11 +200,11 @@ class IssuesController extends Atomik\Controller\Controller{
   public function getSquareBanner4link($template){
     return $name = $this->_magazines->{$this->_issue}->{'banners'}->{$template}->{'squareBanner4link'};
   }
+
   public function getSubscribeLink(){
     return $name = $this->_magazines->{$this->_issue}->{'subscribeLink'};
   }
 
 }
-
 
  ?>
