@@ -43,6 +43,7 @@
        "amplifon"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Amplifon-logo.jpg",
        "audika"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/logo-fond-audika.jpg",
        "audition-sante"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-sante.jpg",
+       "audilab"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-audilab.jpg",
        "audition-conseil"   : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-conseil.jpg",
        "audition-mutualiste": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-mutualiste4156.jpg",
        "acuitis"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Logo_Acousticentre_Baseline.jpg",
@@ -55,7 +56,8 @@
        "otometrics"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/otometrics-logo.jpg",
        "optical"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-optical-center-2.jpg",
        "phonak"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Logo_Phonak_life.jpg",
-       "mutualite-francaise": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-mutualite-francaise.jpg"
+       "mutualite-francaise": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-mutualite-francaise.jpg",
+       "unisson"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-unisson.jpg"
 
      }
   },
@@ -145,7 +147,8 @@
        "newsletter":{
          "leaderBanner": "http://www.edp-nutrition.fr/images/banners/banner-unilever0.jpg",
          "leaderBannerLink":"http://www.unilever-pro-nutrition-sante.fr/choix-thematiques-outils-professionels-nutrition-sante",
-         "banner1":""
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Bannieresifa728x90.gif",
+         "banner2Link":"https://app.mobicheckin.com/en/public/events/5706709aeb66b30256001a25/guest_categories/5706709aeb66b30256001a27/registrations/new?payment_promo_code=EDP"
        },
        "RH":{
          "leaderBanner":"",
@@ -211,10 +214,11 @@
   "audiologyBR":{
      "name": "audiologyBR",
      "color": "#659DED",
+     "paragraph" : 1,
      "logo": "http://www.audiology-infos.br.com/templates/audiobr/images/logo.png",
      "url_base": "http://www.audiology-infos.br.com/",
      "sections": {
-        "newsletter": ["une","actualites"]
+        "newsletter": ["une","actualites","focus"]
      }
   },
 
@@ -223,6 +227,14 @@
      "color": "#659DED",
      "paragraph" : 1,
      "logo": "http://www.audiology-infos.it/templates/audioit/images/logo.png",
+     "banners": {
+       "newsletter":{
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/leaderbanner_sio728x90.jpg",
+         "leaderBannerLink":"http://www.sio2016roma.eu/",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Widex_Banner_630x315.png",
+         "banner2Link":"http://www.widex.pro/en/products/unique-hearing-aids"
+       }
+     },
      "url_base": "http://www.audiology-infos.it/",
      "sections": {
         "newsletter": ["une","actualites","produits","agenda"]
@@ -244,12 +256,12 @@
   "dentaire":{
      "name": "dentaire",
      "color": "#00BFD7",
-     "paragraph" : 0,
+     "paragraph" : 1,
      "logo": "http://www.edp-dentaire.fr/templates/magdent/images/logos/logo_edpdent.png",
      "banners": {
        "newsletter":{
-         "leaderBanner": "http://eml.edpsciences.org/EDP%20Sante%20Aix/newsletter-portail-EDPdentaire/News-10-2014/banniere-w&h-haut.jpg",
-         "leaderBannerLink":"http://www.edp-dentaire.fr/component/content/article?id=1602",
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/invisalign-banner.png",
+         "leaderBannerLink":"http://www.edp-dentaire.fr/",
          "banner2":"",
          "banner2Link":""
        },

@@ -14,4 +14,12 @@ class AudiobrController extends IssuesController{
     parent::index();
   }
 
+  public function focus($url){
+    if ($this->count === 0) {
+      BlocsController::section('focus');
+    }
+    BlocsController::article($url,'blocs/article');
+     $this->count++;
+  }
+
 }
