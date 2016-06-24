@@ -732,8 +732,8 @@ body.outlook p {
       <tr>
         <td class="center" align="center" valign="top">
           <center>
-
-            <p align="center"><font face="verdana"  size="1"><?= Atomik\Translations::translate('Si vous ne visualisez pas correctement ce message, consultez-le en <a href="%%view_email_url%%">ligne.</a>')?></p>
+            <?php $pourcentage ='%'; ?>
+            <p align="center"><font face="verdana"  size="1"><?= Atomik\Translations::translate('Si vous ne visualisez pas correctement ce message, consultez-le en <a href="%1$s%2$sview_email_url%1$s%2$s">ligne.</a>',$pourcentage,$pourcentage)?></p>
             <?php echo $contentForLayout;?>
             <table class="container">
               <table class="row">
@@ -743,9 +743,9 @@ body.outlook p {
                       <tr>
                         <td align="center">
                           <center>
-                            <div align="center"><font face="Verdana" size="1" style="font-size:10px"><?= Atomik\Translations::translate('Pour vous d&eacute;sabonner, cliquez <a href="%%unsub_center_url%%" alias="D&eacute;sabonnement">ici</a>.')?></font>
+                            <div align="center"><font face="Verdana" size="1" style="font-size:10px"><?= Atomik\Translations::translate('Pour vous d&eacute;sabonner, cliquez <a href="%1$s%2$sunsub_center_ur%1$s%2$s" alias="D&eacute;sabonnement">ici</a>.',$pourcentage,$pourcentage)?></font>
                         </div>
-                        <div align="center"><font face="Verdana" size="1" style="font-size:10px"><?= Atomik\Translations::translate('Pour g&eacute;rer vos abonnements, cliquez <a href="%%profile_center_url%%" alias="Mettre &agrave; jour Profil">ici</a>.')?></font>
+                        <div align="center"><font face="Verdana" size="1" style="font-size:10px"><?= Atomik\Translations::translate('Pour g&eacute;rer vos abonnements, cliquez <a href="%1$s%2$sprofile_center_url%1$s%2$s" alias="Mettre &agrave; jour Profil">ici</a>.',$pourcentage,$pourcentage)?></font>
                         </div>
                           </center>
                         </td>
