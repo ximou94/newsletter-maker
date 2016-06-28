@@ -8,8 +8,8 @@
      "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
      "banners": {
        "newsletter":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/OTO_OTOsuite_REPORTS_banner+2016_990x128.gif",
-         "leaderBannerLink":"http://www.otometrics.fr/Service",
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/01532-90-Phonak-banniere-anime_580x79.jpg",
+         "leaderBannerLink":"http://www.rechargeable.phonak.com/fr?utm_source=edpsante&utm_campaign=rechargeable&utm_medium=banner",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/01532_043_BANNIERE_WEB_2016_SAISON_580x79_fixe.jpg",
          "banner2Link":"https://www.phonakpro.com/fr/b2b/fr/products/hearing_instruments/sky-v/hearing-aid.html?utm_source=AudioInfos&utm_medium=Banniere&utm_term=Saison12016&utm_content=newsletter&utm_campaign=phonak"
        },
@@ -17,18 +17,18 @@
          "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
          "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/rayovac-proline.png",
          "leaderBannerLink":"http://www.extraadvanced.eu/fr",
-         "banner2":"",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/banniere-newsletter-soundlens-synergy.png",
          "banner2Link":""
        },
        "flash":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/OTO_OTOsuite_REPORTS_banner+2016_990x128.gif",
-         "leaderBannerLink":"http://www.otometrics.fr/Service",
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/01532-90-Phonak-banniere-anime_580x79.jpg",
+         "leaderBannerLink":"http://www.rechargeable.phonak.com/fr?utm_source=edpsante&utm_campaign=rechargeable&utm_medium=banner",
          "banner1":"",
          "banner2":""
        },
        "topfive":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/OTO_Service_Banner_FR_728x90px.jpg",
-         "leaderBannerLink":"http://www.otometrics.fr/Service",
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/01532-90-Phonak-banniere-anime_580x79.jpg",
+         "leaderBannerLink":"http://www.rechargeable.phonak.com/fr?utm_source=edpsante&utm_campaign=rechargeable&utm_medium=banner",
          "banner1":"",
          "banner2":""
        }
@@ -46,7 +46,10 @@
        "audilab"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-audilab.jpg",
        "audition-conseil"   : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-conseil.jpg",
        "audition-mutualiste": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-mutualiste4156.jpg",
+       "audibene"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/audibene.jpg",
+       "auris"              : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-auris.png",
        "acuitis"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/acuitis.jpg",
+       "amt"                : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/235-portrait.jpg",
        "acousti-centre"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Logo_Acousticentre_Baseline.jpg",
        "demande"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/bonhomme_et_sa_grosse_loupe_2.jpg",
        "entendre"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-entendre.jpg",
