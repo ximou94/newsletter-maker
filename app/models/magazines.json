@@ -70,7 +70,7 @@
      "name": "audiology",
      "color": "#961325",
      "subscribeLink" : "http://abos.edpsante.com/audiology-infos.htm",
-     "paragraph" : 2,
+     "paragraph" : 0,
      "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_audiology_infos.png",
      "banners": {
        "newsletter":{
