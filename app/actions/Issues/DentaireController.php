@@ -29,6 +29,13 @@ class DentaireController extends IssuesController{
     BlocsController::article($url,'blocs/article');
      $this->count++;
   }
+  public function focus($url){
+    if ($this->count === 0) {
+      BlocsController::section('focus');
+    }
+    BlocsController::article($url,'blocs/breve');
+     $this->count++;
+  }
 
 }
 

@@ -157,8 +157,25 @@ class IssuesController extends Atomik\Controller\Controller{
     return $name = $this->_magazines->{$this->_issue}->{'banners'}->{$template}->{'leaderBanner'};
   }
 
+  // TODO: améliorer gestion des bannières ex: getBanner($template, $number)
+
   public function getLeaderBannerLink($template){
     return $name = $this->_magazines->{$this->_issue}->{'banners'}->{$template}->{'leaderBannerLink'};
+  }
+
+  public function getBanner($template, $number)
+  {
+    return $name = $this->_magazines->{$this->_issue}->{'banners'}->{$template}->{'banner'.$number};
+  }
+
+  public function getBannerLink($template, $number)
+  {
+    return $name = $this->_magazines->{$this->_issue}->{'banners'}->{$template}->{'banner'.$number.'link'};
+  }
+
+  public function getAllBanner($template)
+  {
+    return $name = $this->_magazines->{$this->_issue}->{'banners'}->{$template};
   }
 
   public function getBanner2($template){

@@ -48,6 +48,17 @@ class BlocsController extends Atomik\Controller\Controller{
     echo $this->viewOutput;
   }
 
+  public function newBanner($view,$template,$url,$nbBanner){
+    $this->banner = $this->getBanner($template,$nbBanner);
+    $funtionName = __FUNCTION__;
+    $this->viewOutput = Atomik::render($view,array(
+      'banner' => $this->banner,
+      'link'   => $url,
+      'section' => $funtionName
+    ));
+    echo $this->viewOutput;
+  }
+
   public function squareBanners($view,$template){
     $this->banner1 = $this->getSquareBanner1($template);
     $banner1link = $this->getSquareBanner1link($template);
@@ -202,8 +213,8 @@ public function calendarWN($url, $view){
   public function annonce($url,$img){
     $data     = new DataController($url);
     $db       = Atomik::get('db');
-    $this->title    = $data->fetchTitle('h1',1);
-    $this->text     = $data->fetchCalendarText();
+    $this->title    = $data->fetchTitle('h1',0);
+    $this->text     = $data->fetchText(2);
     $this->link     = $data->fetchLink();
     $funtionName = __FUNCTION__;
     $this->viewOutput = Atomik::render('blocs/article',array(
@@ -219,8 +230,8 @@ public function calendarWN($url, $view){
   public function annonceUne($url,$img){
     $data     = new DataController($url);
     $db       = Atomik::get('db');
-    $this->title    = $data->fetchTitle('h1',1);
-    $this->text     = $data->fetchCalendarText();
+    $this->title    = $data->fetchTitle('h1',0);
+    $this->text     = $data->fetchText(2);
     $this->link     = $data->fetchLink();
     $funtionName = __FUNCTION__;
     $this->viewOutput = Atomik::render('blocs/leadArticle',array(

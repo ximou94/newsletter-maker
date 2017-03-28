@@ -8,27 +8,27 @@
      "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
      "banners": {
        "newsletter":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/01532-90-Phonak-banniere-anime_580x79.jpg",
-         "leaderBannerLink":"http://www.rechargeable.phonak.com/fr?utm_source=edpsante&utm_campaign=rechargeable&utm_medium=banner",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/01532_043_BANNIERE_WEB_2016_SAISON_580x79_fixe.jpg",
-         "banner2Link":"https://www.phonakpro.com/fr/b2b/fr/products/hearing_instruments/sky-v/hearing-aid.html?utm_source=AudioInfos&utm_medium=Banniere&utm_term=Saison12016&utm_content=newsletter&utm_campaign=phonak"
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/oto-formation-2017.gif",
+         "leaderBannerLink":"https://docs.google.com/forms/d/1SqOX_ZgYX3c8ig6dUoUv4ptWSMdXGq6DU_UBfxEqHp8/prefill",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/phonak-audio-infos-avril.jpg",
+         "banner2Link":"https://www.phonakpro.com/fr/fr/produits/aides-auditives/virto-b/overview-virto-b.html?utm_source=audioinfos&utm_medium=site&utm_campaign="
        },
        "rh":{
          "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
-         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/rayovac-proline.png",
-         "leaderBannerLink":"http://www.extraadvanced.eu/fr",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/banniere-newsletter-soundlens-synergy.png",
-         "banner2Link":""
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/oto-formation-2017.gif",
+         "leaderBannerLink":"https://docs.google.com/forms/d/1SqOX_ZgYX3c8ig6dUoUv4ptWSMdXGq6DU_UBfxEqHp8/prefill",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/output-ziaeof.gif",
+         "banner2Link":"http://abos.edpsante.com/supplement-management-2016-2017.htm"
        },
        "flash":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/01532-90-Phonak-banniere-anime_580x79.jpg",
-         "leaderBannerLink":"http://www.rechargeable.phonak.com/fr?utm_source=edpsante&utm_campaign=rechargeable&utm_medium=banner",
-         "banner1":"",
-         "banner2":""
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/oto-formation-2017.gif",
+         "leaderBannerLink":"https://docs.google.com/forms/d/1SqOX_ZgYX3c8ig6dUoUv4ptWSMdXGq6DU_UBfxEqHp8/prefill",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/output-ziaeof.gif",
+         "banner2Link":"http://abos.edpsante.com/supplement-management-2016-2017.htm"
        },
        "topfive":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/01532-90-Phonak-banniere-anime_580x79.jpg",
-         "leaderBannerLink":"http://www.rechargeable.phonak.com/fr?utm_source=edpsante&utm_campaign=rechargeable&utm_medium=banner",
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/oto-formation-2017.gif",
+         "leaderBannerLink":"https://docs.google.com/forms/d/1SqOX_ZgYX3c8ig6dUoUv4ptWSMdXGq6DU_UBfxEqHp8/prefill",
          "banner1":"",
          "banner2":""
        }
@@ -39,8 +39,8 @@
         "rh"        : ["une","offres","demandes"]
      },
      "companies": {
-       "agir-pour-audition" : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/agir-pour-audition.jpg",
-       "amplifon"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Amplifon-logo.jpg",
+       "agir-pour-audition" : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/agir-anhoury.jpg",
+       "amplifon"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/amplifon-newlogo.jpg",
        "audika"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/logo-fond-audika.jpg",
        "audition-sante"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-sante.jpg",
        "audilab"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-audilab.jpg",
@@ -51,16 +51,25 @@
        "acuitis"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/acuitis.jpg",
        "amt"                : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/235-portrait.jpg",
        "acousti-centre"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Logo_Acousticentre_Baseline.jpg",
+       "costco"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-costo.jpg",
        "demande"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/bonhomme_et_sa_grosse_loupe_2.jpg",
        "entendre"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-entendre.jpg",
+       "eovi"               : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/erecrut-phonemploi-eovi-mutuelle.jpg",
        "audition-active"    : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/logo-AA.jpg",
        "audio-2000"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-audio-2000v2.jpg",
        "dyapason"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/dyapason-logo.jpg",
+       "grand-audition"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-grand-audition.jpg",
+       "harmonie"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-harmonie-mutuelle-2.jpg",
+       "hays"               : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/hayslogo.jpg",
+       "i-voir-plus"        : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-i-voir.jpg",
        "krys-audition"      : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/krys-audition.jpg",
        "otometrics"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/otometrics-logo.jpg",
        "optical"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-optical-center-2.jpg",
        "phonak"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Logo_Phonak_life.jpg",
+       "pieraud"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-pieraut.jpg",
        "mutualite-francaise": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-mutualite-francaise.jpg",
+       "sonance-audition"   : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/SONANCE_AUDITION.jpg",
+       "team-optic"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/1382779826.jpg",
        "unisson"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-unisson.jpg"
 
      }
@@ -74,8 +83,8 @@
      "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_audiology_infos.png",
      "banners": {
        "newsletter":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/audiown-promo.jpg",
-         "leaderBannerLink":"http://www.audiology-worldnews.com",
+         "leaderBanner": "",
+         "leaderBannerLink":"",
          "banner2":"",
          "banner2Link":""
        },
@@ -107,7 +116,7 @@
      "name": "biologiste",
      "color": "#006B5D",
      "subscribeLink" : "http://abos.edpsante.com/biologiste-infos.htm",
-     "paragraph" : 1,
+     "paragraph" : 0,
      "logo": "http://www.edp-biologie.fr/templates/magbio/images/logos/logo_edpbio.png",
      "banners": {
        "newsletter":{
@@ -149,8 +158,8 @@
      "logo": "http://www.edp-nutrition.fr/templates/magnutr/images/logos/logo_edpnutr.png",
      "banners": {
        "newsletter":{
-         "leaderBanner": "http://www.edp-nutrition.fr/images/banners/banner-unilever0.jpg",
-         "leaderBannerLink":"http://www.unilever-pro-nutrition-sante.fr/choix-thematiques-outils-professionels-nutrition-sante",
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/gamme-riz.jpg",
+         "leaderBannerLink":"http://espacepro.modilac.com/",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Bannieresifa728x90.gif",
          "banner2Link":"https://app.mobicheckin.com/en/public/events/5706709aeb66b30256001a25/guest_categories/5706709aeb66b30256001a27/registrations/new?payment_promo_code=EDP"
        },
@@ -193,15 +202,15 @@
   "audiologyWN":{
      "name": "audiologyWN",
      "color": "#B41F1F",
-     "paragraph" : 2,
+     "paragraph" : 0,
      "logo": "http://www.audiology-worldnews.com/templates/audiown/images/logo.png",
      "banners": {
        "newsletter":{
-         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/VMpo_Web-Banner_Audiology_5.2016_725x90_p.jpg",
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Januar_VMpo_Web-Banner_Audiology_2015_725x90_p.png",
          "leaderBannerLink":"http://www.powerone-batteries.com/",
          "banner1":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Widex_Banner_630x315.png",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Widex_Banner_630x315.png",
-         "banner2Link":"http://www.widex.pro/en/products/unique-hearing-aids"
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Banner_GSI-PelloVideo_AWN-Diaporma_630x315.jpg",
+         "banner2Link":"http://www.grason-stadler.com/pello"
 
        },
        "flash":{
@@ -245,6 +254,25 @@
      }
   },
 
+  "audiologyPB":{
+     "name": "audiologyPB",
+     "color": "#B31B80",
+     "paragraph" : 1,
+     "logo": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-audiology-pb.jpg",
+     "banners": {
+       "newsletter":{
+         "leaderBanner":"",
+         "leaderBannerLink":"",
+         "banner2":"",
+         "banner2Link":""
+       }
+     },
+     "url_base": "http://www.audiology-infos.it/",
+     "sections": {
+        "newsletter": ["une","actualites"]
+     }
+  },
+
   "audiologyDE":{
      "name": "audiologyDE",
      "color": "#E47004",
@@ -283,15 +311,94 @@
      },
      "url_base": "http://www.edp-dentaire.fr/",
      "sections": {
-        "newsletter": ["Une","actualites","produits","Gestion & nomenclature","Management & communication","Cabinet du mois"]
+        "newsletter": ["Une","actualites","produits","Gestion & nomenclature","Management & communication","Cabinet du mois","focus"]
      }
   },
+
+  "orthophile":{
+     "name": "orthophile",
+     "color": "#F58233",
+     "subscribeLink" : "http://www.librairie-garanciere.com/orthophile.htm",
+     "paragraph" : 0,
+     "logo": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-orthophile3.jpg",
+     "banners": {
+       "newsletter":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/invisalign-banner.png",
+         "leaderBannerLink":"http://www.edp-dentaire.fr/",
+         "banner2":"",
+         "banner2Link":""
+       },
+       "RH":{
+         "leaderBanner":"",
+         "banner1":"",
+         "banner2":""
+       },
+       "flash":{
+         "leaderBanner": "",
+         "leaderBannerLink":"",
+         "banner1":"",
+         "banner2":""
+       }
+     },
+     "url_base": "http://www.edp-dentaire.fr/",
+     "sections": {
+        "newsletter": ["Une","actualites","produits"]
+     }
+  },
+
+  "dentoscope":{
+     "name": "dentoscope",
+     "color": "#008AC9",
+     "subscribeLink" : "http://online.fliphtml5.com/huvk/glim/#p=1",
+     "paragraph" : 0,
+     "logo": "http://www.edp-dentaire.fr/templates/magdent/images/logos/logo_edpdent.png",
+     "banners": {
+       "newsletter":{
+         "banner0": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/931-Dentoscope-CS-8100-Family-728x90.jpg",
+         "banner0link":"http://www.edp-dentaire.fr/produits/2168-cs-8100-3d-carestream",
+         "banner1":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/A-dec-Eevolue-700x80.jpg.jpeg",
+         "banner1link":"http://www.edp-dentaire.fr/produits/nouveautes/1756-adec-nouveaux-tabourets-521-522",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Banniere648x60.jpg",
+         "banner2link":"http://www.edp-dentaire.fr/produits/nouveautes/2148-apport-du-cone-beam-dans-la-pratique-omnipraticienne",
+         "banner3":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/728x90sterilport.jpg",
+         "banner3link":"https://www.facebook.com/dentalartfrancais",
+         "banner4":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/MR_X52D3Dbanner700x80EDPDent_Oct16.jpg",
+         "banner4link":"http://www.edp-dentaire.fr/produits/2186-hyperion-x5-easy-3d-2d-diagnostics",
+         "banner5":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Banniere-newsletter-EDP-dentaire-30ko.jpg",
+         "banner5link":"http://www.edp-dentaire.fr/produits/2169-implantmed-respecte-vos-besoins-aujourd-hui-et-demain"
+       },
+       "RH":{
+         "leaderBanner":"",
+         "banner1":"",
+         "banner2":""
+       },
+       "flash":{
+         "leaderBanner": "",
+         "leaderBannerLink":"",
+         "banner1":"",
+         "banner2":""
+       }
+     },
+     "url_base": "http://www.edp-dentaire.fr/",
+     "sections": {
+        "newsletter": ["Une","actualites","produits"]
+     }
+  },
+
 
   "pharma":{
      "name": "pharma",
      "color": "#D71634",
      "subscribeLink" : "http://abos.edpsante.com/profession-pharmacien.htm",
      "logo": "http://www.profession-pharmacien.fr/templates/pphar/images/logos/logo_pphar.png",
+     "banners": {
+       "flash":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/pharmagora-728x90.jpg",
+         "leaderBannerLink":"http://www.pharmagoraplus.com/visiter/les-3-p%C3%B4les-de-pharmagoraplus",
+         "banner1":"",
+         "banner2":""
+       }
+     },
      "url_base": "http://www.profession-pharmacien.fr/",
      "sections": {
         "newsletter": ["une","actualites","equipement","entretien pharmaceutique","orthopedie"]

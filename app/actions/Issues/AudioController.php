@@ -42,7 +42,7 @@ class AudioController extends IssuesController{
 
   public function rhdemandes($url,$img){
     if ($this->count === 0) {
-      BlocsController::section('demandes');
+      BlocsController::section('candidat');
     }
   BlocsController::annonce($url,$img);
     $this->count++;

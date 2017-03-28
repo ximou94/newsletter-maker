@@ -1,7 +1,7 @@
 <?php
 
 Atomik::set(array(
-    'base_dir' => 'C:\wamp\www\responsive-newsletter-maker-V3',
+    'base_dir' => 'C:\wamp64\www\responsive-newsletter-maker-V3',
     'plugins' => array(
         'DebugBar' => array(
             // if you don't include jquery yourself as it is done in the
@@ -76,6 +76,9 @@ Atomik::set(array(
         'create/:template/audiologyBR' => array(
             'action' => 'issues/audiobr/index'
         ),
+        'create/:template/audiologyPB' => array(
+            'action' => 'issues/audiopb/index'
+        ),
         'create/:template/audiologyDE' => array(
             'action' => 'issues/audiode/index'
         ),
@@ -96,6 +99,12 @@ Atomik::set(array(
         ),
         'create/:template/audiology' => array(
             'action' => 'issues/audiology/index'
+        ),
+        'create/:template/orthophile' => array(
+            'action' => 'issues/orthophile/index'
+        ),
+        'create/:template/dentoscope' => array(
+            'action' => 'issues/dentoscope/index'
         ),
       )
     ),
