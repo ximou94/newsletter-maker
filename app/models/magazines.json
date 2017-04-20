@@ -120,8 +120,8 @@
      "logo": "http://www.edp-biologie.fr/templates/magbio/images/logos/logo_edpbio.png",
      "banners": {
        "newsletter":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/header-biologiste-infos25032016.jpg",
-         "leaderBannerLink":"https://www.dlsante.fr/fr/societe/notre-raison-d-etre",
+         "leaderBanner":"http://www.edp-biologie.fr/images/banners/bannieres-LBI-151116-v1.gif",
+         "leaderBannerLink":"http://lesbiologistesindependants.fr",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/werfen.jpg",
          "banner2Link":"http://fr.werfen.com/",
          "squareBanner1":"http://www.edp-biologie.fr/images/banners/Bandeau_BI_AccrediWorld.jpg",
@@ -139,8 +139,8 @@
          "banner2":""
        },
        "flash":{
-         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/banniere-biologiste-info.png",
-         "leaderBannerLink":"http://www.sil-lab-experts.com/nos-fiches-produits/logiciels",
+         "leaderBanner":"http://www.edp-biologie.fr/images/banners/bannieres-LBI-151116-v1.gif",
+         "leaderBannerLink":"http://lesbiologistesindependants.fr",
          "banner2":""
        }
      },
