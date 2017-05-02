@@ -9,26 +9,26 @@
      "banners": {
        "newsletter":{
          "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/oto-formation-2017.gif",
-         "leaderBannerLink":"https://docs.google.com/forms/d/1SqOX_ZgYX3c8ig6dUoUv4ptWSMdXGq6DU_UBfxEqHp8/prefill",
+         "leaderBannerLink":"http://www.otometrics.fr/formation",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/phonak-audio-infos-avril.jpg",
          "banner2Link":"https://www.phonakpro.com/fr/fr/produits/aides-auditives/virto-b/overview-virto-b.html?utm_source=audioinfos&utm_medium=site&utm_campaign="
        },
        "rh":{
          "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/oto-formation-2017.gif",
-         "leaderBannerLink":"https://docs.google.com/forms/d/1SqOX_ZgYX3c8ig6dUoUv4ptWSMdXGq6DU_UBfxEqHp8/prefill",
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/output-IraM2i.gif",
+         "leaderBannerLink":"http://www.edp-audio.fr/actualites/manifestation/5086-le-hors-serie-gammes-edition-2016-2017-est-disponible",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/output-ziaeof.gif",
          "banner2Link":"http://abos.edpsante.com/supplement-management-2016-2017.htm"
        },
        "flash":{
          "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/oto-formation-2017.gif",
-         "leaderBannerLink":"https://docs.google.com/forms/d/1SqOX_ZgYX3c8ig6dUoUv4ptWSMdXGq6DU_UBfxEqHp8/prefill",
+         "leaderBannerLink":"http://www.otometrics.fr/formation",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/output-ziaeof.gif",
          "banner2Link":"http://abos.edpsante.com/supplement-management-2016-2017.htm"
        },
        "topfive":{
          "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/oto-formation-2017.gif",
-         "leaderBannerLink":"https://docs.google.com/forms/d/1SqOX_ZgYX3c8ig6dUoUv4ptWSMdXGq6DU_UBfxEqHp8/prefill",
+         "leaderBannerLink":"http://www.otometrics.fr/formation",
          "banner1":"",
          "banner2":""
        }
@@ -393,8 +393,8 @@
      "logo": "http://www.profession-pharmacien.fr/templates/pphar/images/logos/logo_pphar.png",
      "banners": {
        "flash":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/pharmagora-728x90.jpg",
-         "leaderBannerLink":"http://www.pharmagoraplus.com/visiter/les-3-p%C3%B4les-de-pharmagoraplus",
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/r-insertwebi.gif",
+         "leaderBannerLink":"http://www.orliman.fr/catalogue/rachis-cervical",
          "banner1":"",
          "banner2":""
        }
