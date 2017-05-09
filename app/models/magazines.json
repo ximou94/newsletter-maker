@@ -206,11 +206,11 @@
      "logo": "http://www.audiology-worldnews.com/templates/audiown/images/logo.png",
      "banners": {
        "newsletter":{
-         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Januar_VMpo_Web-Banner_Audiology_2015_725x90_p.png",
-         "leaderBannerLink":"http://www.powerone-batteries.com/",
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/banner-gsi-pello4.jpg",
+         "leaderBannerLink":"http://www.grason-stadler.com/solutions/audiometer/gsi-pello",
          "banner1":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Widex_Banner_630x315.png",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Banner_GSI-PelloVideo_AWN-Diaporma_630x315.jpg",
-         "banner2Link":"http://www.grason-stadler.com/pello"
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/ifos-banner.png",
+         "banner2Link":"http://www.ifosparis2017.org/"
 
        },
        "flash":{
