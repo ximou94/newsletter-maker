@@ -12,7 +12,10 @@ class AudioController extends IssuesController{
 		public function index(){
 				$this->setIssue('audio');
 				parent::index();
-				$this->deposerannonces();
+				if (Atomik::get('request.template') === 'rh') {
+						$this->deposerannonces();
+				}
+
 		}
 
 		public function annonces($url){
