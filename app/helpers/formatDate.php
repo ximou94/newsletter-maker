@@ -28,7 +28,13 @@ class FormatDateHelper{
         case 'de-DE':
           $date = ' <em> Audio infos</em> '.ucfirst($template).' '.strftime('%#d. %B %Y');
           return $date;
-          break;
+										break;
+								case 'French_France.1252':
+          if ($template == 'rh') {
+          $date = ' <em> Audio infos</em> Ressources Humaines N°';
+										return $date;
+										break;
+          }
       default:
         $date = ucfirst($template).' <em>'.ucfirst($issue).' infos</em> du '.utf8_encode(strftime('%#d %B %Y'));
         return $date;

@@ -124,14 +124,14 @@
          "leaderBannerLink":"http://lesbiologistesindependants.fr",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/werfen.jpg",
          "banner2Link":"http://fr.werfen.com/",
-         "squareBanner1":"http://www.edp-biologie.fr/images/banners/Bandeau_BI_AccrediWorld.jpg",
-         "squareBanner1link":"http://www.bdaccrediworld.com/fr#/pre-home-fr",
+         "squareBanner1":"http://www.edp-biologie.fr/images/banners/banniere_abo_bioinf_300x250pxfixe.jpg",
+         "squareBanner1link":"http://abos.edpsante.com/biologiste-infos.htm",
          "squareBanner2":"http://www.edp-biologie.fr/images/banners/Le-biologiste-medical_Banniere-300-x-300.gif",
-         "squareBanner2link":"http://laboutique.edpsciences.fr/produit/795/9782759816699/Le%20biologiste%20medical%20nouveau%20manager%20de%20son%20laboratoire",
-         "squareBanner3":"http://www.edp-biologie.fr/images/banners/bannierepresse160070.png",
-         "squareBanner3link":"https://www.workspace.swe.siemens.com/content/10000003/academie/default.aspx",
-         "squareBanner4":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/1/annonces_d_emploi.jpg",
-         "squareBanner4link":"http://www.edp-biologie.fr/annonce"
+         "squareBanner2link":"http://www.edp-biologie.fr/annonce",
+         "squareBanner3":"http://www.edp-biologie.fr/images/banners/CIM2017.jpg",
+         "squareBanner3link":"http://www.cim2017.com/",
+         "squareBanner4":"http://www.edp-biologie.fr/images/banners/bann5lab.jpg",
+         "squareBanner4link":"http://www.edp-biologie.fr/images/banners/bann5lab.jpg"
        },
        "RH":{
          "leaderBanner":"",
