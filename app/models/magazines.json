@@ -56,7 +56,7 @@
        "costco"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-costo.jpg",
        "demande"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/bonhomme_et_sa_grosse_loupe_2.jpg",
        "dyapason"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/dyapason-logo.jpg",
-       "entendre"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-entendre.jpg",
+       "entendre"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/new-logo-entendre.gif",
        "eovi"               : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/erecrut-phonemploi-eovi-mutuelle.jpg",
        "grand-audition"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-grand-audition.jpg",
        "harmonie"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-harmonie-mutuelle-2.jpg",
@@ -392,6 +392,12 @@
      "subscribeLink" : "http://abos.edpsante.com/profession-pharmacien.htm",
      "logo": "http://www.profession-pharmacien.fr/templates/pphar/images/logos/logo_pphar.png",
      "banners": {
+						 "newsletter":{
+         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/orliman-newsletter.gif",
+         "leaderBannerLink":"http://www.orliman.fr/catalogue/rachis-cervical",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/promo-plast.jpg",
+         "banner2Link":"http://www.promoplast.fr/"
+       },
        "flash":{
          "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/r-insertwebi.gif",
          "leaderBannerLink":"http://www.orliman.fr/catalogue/rachis-cervical",

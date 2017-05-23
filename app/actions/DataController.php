@@ -10,9 +10,10 @@ class DataController extends Atomik\Controller\Controller
 
   public function __construct($url){
     $this->setUrl($url);
-    $curl = curl_init($this->_url);
-    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-    $return = curl_exec($curl);
+				$curl = curl_init($this->_url);
+				curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+				curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+				$return = curl_exec($curl);
     curl_close($curl);
     $this->_result = new DOMDocument();
     @$this->_result->loadHTML($return);
