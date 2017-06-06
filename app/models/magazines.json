@@ -8,27 +8,27 @@
      "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
      "banners": {
        "newsletter":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/oto-formation-2017.gif",
-         "leaderBannerLink":"http://www.otometrics.fr/formation",
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/otometric-madsen.gif",
+         "leaderBannerLink":"http://www.otometrics.fr/a450",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/phonak-audio-infos-avril.jpg",
-         "banner2Link":"https://www.phonakpro.com/fr/fr/produits/aides-auditives/virto-b/overview-virto-b.html?utm_source=audioinfos&utm_medium=site&utm_campaign="
+         "banner2link":"https://www.phonakpro.com/fr/fr/produits/aides-auditives/virto-b/overview-virto-b.html?utm_source=audioinfos&utm_medium=site&utm_campaign="
        },
        "rh":{
          "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/output_nvvEZn.gif",
-         "leaderBannerLink":"http://abos.edpsante.com/guide-audio-infos-les-solutions-pour-se-premunir-du-bruit.htm",
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/otometric-madsen.gif",
+         "leaderbannerlink":"http://www.otometrics.fr/a450",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/ifos-banner.png",
-         "banner2Link":"http://www.ifosparis2017.org/"
+         "banner2link":"http://www.ifosparis2017.org/"
        },
        "flash":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/oto-formation-2017.gif",
-         "leaderBannerLink":"http://www.otometrics.fr/formation",
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/otometric-madsen.gif",
+         "leaderbannerlink":"http://www.otometrics.fr/a450",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/output-ziaeof.gif",
          "banner2Link":"http://abos.edpsante.com/supplement-management-2016-2017.htm"
        },
        "topfive":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/oto-formation-2017.gif",
-         "leaderBannerLink":"http://www.otometrics.fr/formation",
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/otometric-madsen.gif",
+         "leaderBannerLink":"http://www.otometrics.fr/a450",
          "banner1":"",
          "banner2":""
        }
@@ -53,6 +53,7 @@
        "audition-mutualiste": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-mutualiste4156.jpg",
        "audition-sante"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-sante.jpg",
        "auris"              : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-auris.png",
+							"chovet"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/chovet-couverture1.gif",
        "costco"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-costo.jpg",
        "demande"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/bonhomme_et_sa_grosse_loupe_2.jpg",
        "dyapason"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/dyapason-logo.jpg",
