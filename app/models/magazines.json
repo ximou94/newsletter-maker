@@ -10,19 +10,19 @@
        "newsletter":{
          "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/otometric-madsen.gif",
          "leaderBannerLink":"http://www.otometrics.fr/a450",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/phonak-audio-infos-avril.jpg",
-         "banner2link":"https://www.phonakpro.com/fr/fr/produits/aides-auditives/virto-b/overview-virto-b.html?utm_source=audioinfos&utm_medium=site&utm_campaign="
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/phonak-rs-2017.jpg",
+         "banner2Link":"https://docs.google.com/forms/d/12_ocpd69ec1ywb803v388m5Q14WflgiMoujN2jNbNfg/viewform?edit_requested=true&utm_source=audioinfos&utm_campaign=rs2017&utm_content=newsletter"
        },
        "rh":{
          "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
-         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/otometric-madsen.gif",
-         "leaderbannerlink":"http://www.otometrics.fr/a450",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/ifos-banner.png",
-         "banner2link":"http://www.ifosparis2017.org/"
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/Webp.net-gifmaker-iloveimg-compressed.gif",
+         "leaderBannerLink":"http://www.edp-audio.fr/actualites/manifestation/5408-audio-infos-edite-la-premiere-edition-de-son-supplement-consacre-aux-implants-auditifs",
+         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/output_nvvEZn.gif",
+         "banner2Link":"http://abos.edpsante.com/guide-audio-infos-les-solutions-pour-se-premunir-du-bruit.htm"
        },
        "flash":{
          "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/otometric-madsen.gif",
-         "leaderbannerlink":"http://www.otometrics.fr/a450",
+         "leaderBannerLink":"http://www.otometrics.fr/a450",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/output-ziaeof.gif",
          "banner2Link":"http://abos.edpsante.com/supplement-management-2016-2017.htm"
        },
@@ -54,6 +54,7 @@
        "audition-sante"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-sante.jpg",
        "auris"              : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-auris.png",
 							"chovet"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/chovet-couverture1.gif",
+							"converson"          : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/conversons.jpg",
        "costco"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-costo.jpg",
        "demande"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/bonhomme_et_sa_grosse_loupe_2.jpg",
        "dyapason"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/dyapason-logo.jpg",
@@ -66,6 +67,7 @@
        "krys-audition"      : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/krys-audition.jpg",
        "mutualite-francaise": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-mutualite-francaise.jpg",
        "optical"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-optical-center-2.jpg",
+							"optic-2000"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/optic-2000.jpg",
        "otometrics"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/otometrics-logo.jpg",
        "phonak"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Logo_Phonak_life.jpg",
        "pieraud"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-pieraut.jpg",
@@ -132,7 +134,7 @@
          "squareBanner3":"http://www.edp-biologie.fr/images/banners/CIM2017.jpg",
          "squareBanner3link":"http://www.cim2017.com/",
          "squareBanner4":"http://www.edp-biologie.fr/images/banners/bann5lab.jpg",
-         "squareBanner4link":"http://www.edp-biologie.fr/images/banners/bann5lab.jpg"
+         "squareBanner4link":"http://www.5ilab.fr"
        },
        "RH":{
          "leaderBanner":"",
