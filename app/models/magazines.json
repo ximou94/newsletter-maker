@@ -8,27 +8,27 @@
      "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
      "banners": {
        "newsletter":{
-         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/otometric-madsen.gif",
-         "leaderBannerLink":"http://www.otometrics.fr/a450",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/phonak-rs-2017.jpg",
-         "banner2Link":"https://docs.google.com/forms/d/12_ocpd69ec1ywb803v388m5Q14WflgiMoujN2jNbNfg/viewform?edit_requested=true&utm_source=audioinfos&utm_campaign=rs2017&utm_content=newsletter"
+         "leaderBanner":"http://www.edp-audio.fr/images/newsletter/banners/advantage-oto.jpg",
+         "leaderBannerLink":"http://www.otometrics.com/fr-FR/contactez-nous",
+         "banner2":"http://www.edp-audio.fr/images/newsletter/banners/web-banniere-phonak.jpg",
+         "banner2Link":"https://www.phonakpro.com/fr/fr/products/hearing-aids/audeo-b/overview-audeo-b.html?utm_source=audioinfos&utm_medium=email&utm_campaign=sept17"
        },
        "rh":{
          "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
-         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/Webp.net-gifmaker-iloveimg-compressed.gif",
-         "leaderBannerLink":"http://www.edp-audio.fr/actualites/manifestation/5408-audio-infos-edite-la-premiere-edition-de-son-supplement-consacre-aux-implants-auditifs",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/output_nvvEZn.gif",
+         "leaderBanner":"http://www.edp-audio.fr/images/newsletter/banners/profania-dec2.jpg",
+         "leaderBannerLink":"https://www.profonia.com/?utm_campaign=pub1712&utm_medium=adPress&utm_source=edpNewsLanding&utm_content=ban728",
+         "banner2":"http://www.edp-audio.fr/images/newsletter/banners/output_nvvEZn.gif",
          "banner2Link":"http://abos.edpsante.com/guide-audio-infos-les-solutions-pour-se-premunir-du-bruit.htm"
        },
        "flash":{
-         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/otometric-madsen.gif",
-         "leaderBannerLink":"http://www.otometrics.fr/a450",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/output-ziaeof.gif",
+         "leaderBanner":"http://www.edp-audio.fr/images/newsletter/banners/advantage-oto.jpg",
+         "leaderBannerLink":"http://www.otometrics.com/fr-FR/contactez-nous",
+         "banner2":"http://www.edp-audio.fr/images/newsletter/banners/output-ziaeof.gif",
          "banner2Link":"http://abos.edpsante.com/supplement-management-2016-2017.htm"
        },
        "topfive":{
-         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/otometric-madsen.gif",
-         "leaderBannerLink":"http://www.otometrics.fr/a450",
+         "leaderBanner":"http://www.edp-audio.fr/images/newsletter/banners/advantage-oto.jpg",
+         "leaderBannerLink":"http://www.otometrics.com/fr-FR/contactez-nous",
          "banner1":"",
          "banner2":""
        }
@@ -39,41 +39,45 @@
         "rh"        : ["une","offres","demandes"]
      },
      "companies": {
-       "acousti-centre"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Logo_Acousticentre_Baseline.jpg",
-       "acuitis"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/acuitis.jpg",
-       "agir-pour-audition" : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/agir-anhoury.jpg",
-       "amplifon"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/amplifon-newlogo.jpg",
-       "amt"                : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/235-portrait.jpg",
-       "audibene"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/audibene.jpg",
-       "audika"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/logo-fond-audika.jpg",
-       "audilab"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-audilab.jpg",
-       "audio-2000"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-audio-2000v2.jpg",
-       "audition-active"    : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/logo-AA.jpg",
-       "audition-conseil"   : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-conseil.jpg",
-       "audition-mutualiste": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-mutualiste4156.jpg",
-       "audition-sante"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/audition-sante.jpg",
-       "auris"              : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-auris.png",
-							"chovet"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/chovet-couverture1.gif",
-							"converson"          : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/conversons.jpg",
-       "costco"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-costo.jpg",
-       "demande"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/bonhomme_et_sa_grosse_loupe_2.jpg",
-       "dyapason"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/dyapason-logo.jpg",
-       "entendre"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/new-logo-entendre.gif",
-       "eovi"               : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/erecrut-phonemploi-eovi-mutuelle.jpg",
-       "grand-audition"     : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-grand-audition.jpg",
-       "harmonie"           : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-harmonie-mutuelle-2.jpg",
-       "hays"               : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/hayslogo.jpg",
-       "i-voir-plus"        : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-i-voir.jpg",
-       "krys-audition"      : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/krys-audition.jpg",
-       "mutualite-francaise": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-mutualite-francaise.jpg",
-       "optical"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-optical-center-2.jpg",
-							"optic-2000"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/optic-2000.jpg",
-       "otometrics"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/otometrics-logo.jpg",
-       "phonak"             : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Logo_Phonak_life.jpg",
-       "pieraud"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-pieraut.jpg",
-       "sonance-audition"   : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/SONANCE_AUDITION.jpg",
-       "team-optic"         : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/1382779826.jpg",
-       "unisson"            : "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/logo-unisson.jpg"
+       "acousti-centre"     : "http://www.edp-audio.fr/images/newsletter/rh/Logo_Acousticentre_Baseline.jpg",
+       "acuitis"            : "http://www.edp-audio.fr/images/newsletter/rh/acuitis.jpg",
+       "agir-pour-audition" : "http://www.edp-audio.fr/images/newsletter/rh/agir-anhoury.jpg",
+       "amplifon"           : "http://www.edp-audio.fr/images/newsletter/rh/amplifon-newlogo.jpg",
+       "amt"                : "http://www.edp-audio.fr/images/newsletter/rh/235-portrait.jpg",
+       "audibene"           : "http://www.edp-audio.fr/images/newsletter/rh/audibene.jpg",
+       "audika"             : "http://www.edp-audio.fr/images/newsletter/rh/logo-fond-audika.jpg",
+       "audilab"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-audilab.jpg",
+       "audio-2000"         : "http://www.edp-audio.fr/images/newsletter/rh/logo-audio-2000v2.jpg",
+							"audio-sante"        : "http://www.edp-audio.fr/images/newsletter/rh/audio-sante.jpg",
+       "audition-active"    : "",
+							"audition-chovet"    : "http://www.edp-audio.fr/images/newsletter/rh/chovet-couverture1.gif",
+       "audition-conseil"   : "http://www.edp-audio.fr/images/newsletter/rh/audition-conseil.jpg",
+							"audition-langlet"   : "http://www.edp-audio.fr/images/newsletter/rh/audition-langlet.jpg",
+       "audition-mutualiste": "http://www.edp-audio.fr/images/newsletter/rh/audition-mutualiste4156.jpg",
+       "audition-sante"     : "http://www.edp-audio.fr/images/newsletter/rh/audition-sante.jpg",
+       "auris"              : "",
+							"converson"          : "http://www.edp-audio.fr/images/newsletter/rh/conversons.jpg",
+       "costco"             : "",
+       "demande"            : "http://www.edp-audio.fr/images/newsletter/rh/bonhomme_et_sa_grosse_loupe_2.jpg",
+       "dyapason"           : "http://www.edp-audio.fr/images/newsletter/rh/dyapason-logo.jpg",
+       "entendre"           : "http://www.edp-audio.fr/images/newsletter/rh/new-logo-entendre.gif",
+       "eovi"               : "http://www.edp-audio.fr/images/newsletter/rh/erecrut-phonemploi-eovi-mutuelle.jpg",
+       "grand-audition"     : "http://www.edp-audio.fr/images/newsletter/rh/erecrut-phonemploi-eovi-mutuelle.jpg",
+       "harmonie"           : "http://www.edp-audio.fr/images/newsletter/rh/logo-harmonie-mutuelle-2.jpg",
+       "hays"               : "http://www.edp-audio.fr/images/newsletter/rh/hayslogo.jpg",
+       "i-voir-plus"        : "",
+       "krys-audition"      : "http://www.edp-audio.fr/images/newsletter/rh/krys-audition.jpg",
+       "mutualite-francaise": "http://www.edp-audio.fr/images/newsletter/rh/logo-mutualite-francaise.jpg",
+       "optical"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-optical-center-2.jpg",
+							"optic-2000"         : "http://www.edp-audio.fr/images/newsletter/rh/optic-2000.jpg",
+       "otometrics"         : "http://www.edp-audio.fr/images/newsletter/rh/otometrics-logo.jpg",
+       "phonak"             : "http://www.edp-audio.fr/images/newsletter/rh/Logo_Phonak_life.jpg",
+       "pieraud"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-pieraut.jpg",
+	   "prodition"          : "http://www.edp-audio.fr/images/newsletter/rh/prodition.gif",
+							"solusons"           : "http://www.edp-audio.fr/images/newsletter/rh/logo-solusons2.jpg",
+       "sonance-audition"   : "http://www.edp-audio.fr/images/newsletter/rh/SONANCE_AUDITION.jpg",
+       "team-optic"         : "http://www.edp-audio.fr/images/newsletter/rh/1382779826.jpg",
+       "unisson"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-unisson.jpg"
 
      }
   },
@@ -123,29 +127,29 @@
      "logo": "http://www.edp-biologie.fr/templates/magbio/images/logos/logo_edpbio.png",
      "banners": {
        "newsletter":{
-         "leaderBanner":"http://www.edp-biologie.fr/images/banners/bannieres-LBI-151116-v1.gif",
-         "leaderBannerLink":"http://lesbiologistesindependants.fr",
+         "leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/fisher.gif",
+         "leaderBannerLink":"http://www.thermofisher.com/fr/fr/home/clinical/diagnostic-testing/instruments-automation/hplc-mass-spectrometry-instruments-software/cascadion-sm-clinical-analyzer.html",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/werfen.jpg",
          "banner2Link":"http://fr.werfen.com/",
          "squareBanner1":"http://www.edp-biologie.fr/images/banners/banniere_abo_bioinf_300x250pxfixe.jpg",
          "squareBanner1link":"http://abos.edpsante.com/biologiste-infos.htm",
-         "squareBanner2":"http://www.edp-biologie.fr/images/banners/Le-biologiste-medical_Banniere-300-x-300.gif",
-         "squareBanner2link":"http://www.edp-biologie.fr/annonce",
-         "squareBanner3":"http://www.edp-biologie.fr/images/banners/CIM2017.jpg",
-         "squareBanner3link":"http://www.cim2017.com/",
-         "squareBanner4":"http://www.edp-biologie.fr/images/banners/bann5lab.jpg",
-         "squareBanner4link":"http://www.5ilab.fr"
-       },
-       "RH":{
-         "leaderBanner":"",
-         "banner1":"",
-         "banner2":""
-       },
-       "flash":{
-         "leaderBanner":"http://www.edp-biologie.fr/images/banners/bannieres-LBI-151116-v1.gif",
-         "leaderBannerLink":"http://lesbiologistesindependants.fr",
-         "banner2":""
-       }
+									"squareBanner2":"http://www.edp-biologie.fr/images/banners/Le-biologiste-medical_Banniere-300-x-300.gif",
+									"squareBanner2link":"http://www.edp-biologie.fr/annonce",
+									"squareBanner3":"http://www.edp-biologie.fr/images/banners/CIM2017.jpg",
+									"squareBanner3link":"http://www.cim2017.com/",
+									"squareBanner4":"http://www.edp-biologie.fr/images/banners/bann5lab.jpg",
+									"squareBanner4link":"http://www.5ilab.fr"
+							},
+							"RH":{
+											"leaderBanner":"",
+											"banner1":"",
+											"banner2":""
+							},
+							"flash":{
+											"leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/fisher.gif",
+											"leaderBannerLink":"http://www.thermofisher.com/fr/fr/home/clinical/diagnostic-testing/instruments-automation/hplc-mass-spectrometry-instruments-software/cascadion-sm-clinical-analyzer.html",
+											"banner2":""
+							}
      },
      "url_base": "http:\/\/www.edp-biologie.fr\/",
      "sections": {
@@ -396,9 +400,9 @@
      "logo": "http://www.profession-pharmacien.fr/templates/pphar/images/logos/logo_pphar.png",
      "banners": {
 						 "newsletter":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/orliman-newsletter.gif",
-         "leaderBannerLink":"http://www.orliman.fr/catalogue/rachis-cervical",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/promo-plast.jpg",
+         "leaderBanner":"https://www.profession-pharmacien.fr/images/newsletter/2017/banners/Ban-fixe-UL-SsMarin_EDP_728x90.jpg",
+         "leaderBannerLink":"http://www.biocodex.fr/sites/default/files/ML_UL.PDF",
+         "banner2":"https://www.profession-pharmacien.fr/images/newsletter/2017/banners/promo-plast.jpg",
          "banner2Link":"http://www.promoplast.fr/"
        },
        "flash":{
