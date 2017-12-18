@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="viewport" content="width=device-width"/>
 <style type="text/css">
 
@@ -732,8 +732,7 @@ body.outlook p {
       <tr>
         <td class="center" align="center" valign="top">
 										<center>
-												<?php $pourcentage ='%'; ?>
-												<p align="center" style="text-align:center"><font face="verdana"  size="1"><?= Atomik\Translations::translate('Si vous ne visualisez pas correctement ce message, consultez-le en <a href="%1$s%2$sview_email_url%1$s%2$s">ligne.</a>',$pourcentage,$pourcentage)?></p>
+												<p align="center" style="text-align:center"><font face="verdana"  size="1"><?= Atomik\Translations::translate('Si vous ne visualisez pas correctement ce message, consultez-le en <a href="[[PERMALINK]]">ligne.</a>')?></font></p>
 												<?php echo $contentForLayout;?>
 												<table class="container">
 														<tr>
@@ -745,9 +744,7 @@ body.outlook p {
 																										<tr>
 																												<td align="center" class="center">
 																														<center>
-																																<div><p style="text-align:center" align="center"><font face="Verdana" size="1" style="font-size:10px"><?= Atomik\Translations::translate('Pour vous d&eacute;sabonner, cliquez <a href="%1$s%2$sunsub_center_url%1$s%2$s" alias="D&eacute;sabonnement">ici</a>.',$pourcentage,$pourcentage)?></font></p>
-																																</div>
-																																<div><p style="text-align:center" align="center"><font face="Verdana" size="1" style="font-size:10px"><?= Atomik\Translations::translate('Pour g&eacute;rer vos abonnements, cliquez <a href="%1$s%2$sprofile_center_url%1$s%2$s" alias="Mettre &agrave; jour Profil">ici</a>.',$pourcentage,$pourcentage)?></font></p>
+																																<div><p style="text-align:center" align="center"><font face="Verdana" size="1" style="font-size:10px"><?= Atomik\Translations::translate('Pour vous d&eacute;sabonner, cliquez <a href="[[UNSUB_LINK_FR]]" alias="D&eacute;sabonnement">ici</a>.')?></font></p>
 																																</div>
 																														</center>
 																												</td>
