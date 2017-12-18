@@ -20,14 +20,21 @@ class DataController extends Atomik\Controller\Controller
     $this->_xpath = new DOMXPath($this->_result);
   }
 
-  public function fetchText($number){
-    $element = $this->_result->getElementsByTagName('p');
-    return $this->get_inner_html($element->item($number));
-  }
+		public function fetchText($number){
+				$element = $this->_result->getElementsByTagName('p');
+				if (Atomik::get('request.template')== 'rh') {
+						return utf8_decode($this->get_inner_html($element->item($number)));echo 'ok';exit();
+				} else {
+						return $this->get_inner_html($element->item($number));
+				}
+		}
 
-  public function fetchTitle($tagName,$itemNumber){
-    return $this->_result->getElementsByTagName($tagName)->item($itemNumber)->nodeValue;
-  }
+		public function fetchTitle($tagName,$itemNumber){
+				if (Atomik::get('request.template') == 'rh') {
+						return utf8_decode($this->_result->getElementsByTagName($tagName)->item($itemNumber)->nodeValue);
+				}
+				return $this->_result->getElementsByTagName($tagName)->item($itemNumber)->nodeValue;
+		}
 
   public function fetchImg($base_url){
   //  TODO Factoriser
