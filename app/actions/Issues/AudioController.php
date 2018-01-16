@@ -10,12 +10,22 @@ class AudioController extends IssuesController{
 		private $_sections = array();
 
 		public function index(){
-				$this->setIssue('audio');
-				parent::index();
-				if (Atomik::get('request.template') === 'rh') {
-						$this->deposerannonces();
-				}
+						$this->setIssue('audio');
+						parent::index();
+						if (Atomik::get('request.template') === 'rh') {
+										$this->deposerannonces();
+						}
+						if(Atomik::get('request.template') === "newsletter") {
+										$this->librairie();
+						}
+		}
 
+		public function librairie() {
+						if ($this->count === 0) {
+										BlocsController::section('sélection du mois');
+						}
+						$this->viewOutput = Atomik::render('blocs/librairie');
+						echo $this->viewOutput;
 		}
 
 		public function annonces($url){
@@ -25,6 +35,7 @@ class AudioController extends IssuesController{
 				BlocsController::annonce($url);
 				$this->count++;
 		}
+
 		public function rhune($url,$img){
 				if(!empty($this->getLeaderBanner(Atomik::get('request.template')))){
 						BlocsController::leaderBanner('blocs/leaderBanner',Atomik::get('request.template'),$this->getLeaderBannerLink(Atomik::get('request.template')));

@@ -91,13 +91,13 @@ class IssuesController extends Atomik\Controller\Controller{
     }
   }
 
-  public function actualites($url){
-    if ($this->count === 0) {
-      BlocsController::section('actualités');
-    }
-    BlocsController::article($url,'blocs/article',$this->subtitle);
-    $this->count++;
-  }
+		public function actualites($url){
+						if ($this->count === 0) {
+										BlocsController::section('actualités');
+						}
+						BlocsController::article($url,'blocs/article',$this->subtitle);
+						$this->count++;
+		}
 
   public function agenda($url){
     if ($this->count === 0) {
