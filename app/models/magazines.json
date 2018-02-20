@@ -166,10 +166,10 @@
      "logo": "http://www.edp-nutrition.fr/templates/magnutr/images/logos/logo_edpnutr.png",
      "banners": {
        "newsletter":{
-         "leaderBanner": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/gamme-riz.jpg",
-         "leaderBannerLink":"http://espacepro.modilac.com/",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Bannieresifa728x90.gif",
-         "banner2Link":"https://app.mobicheckin.com/en/public/events/5706709aeb66b30256001a25/guest_categories/5706709aeb66b30256001a27/registrations/new?payment_promo_code=EDP"
+         "leaderBanner": "http://www.edp-nutrition.fr/images/banners/newsletter/banniere-restoco.JPG",
+         "leaderBannerLink":"http://www.salonrestauco.com/",
+         "banner2":"http://www.edp-nutrition.fr/images/banners/newsletter/banniere-JDP-2018.jpg",
+         "banner2Link":"https://www.journeesdeprintemps.com/"
        },
        "RH":{
          "leaderBanner":"",
