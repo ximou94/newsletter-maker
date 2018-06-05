@@ -8,23 +8,23 @@
      "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
      "banners": {
        "newsletter":{
-         "leaderBanner":"http://www.edp-audio.fr/images/banners/banner-oto-fev-2018.gif",
-         "leaderBannerLink":"http://www.otometrics.com/fr-FR/connaissance",
-         "banner2":"http://www.edp-audio.fr/images/newsletter/banners/phonak-naida-banner.jpg",
-         "banner2Link":"https://www.phonakpro.com/fr/fr/produits/aides-auditives/naida-b/pr%C3%A9sentation-naida-b.html?utm_source=audioinfos&utm_medium=newsletter&utm_campaign=0418"
+         "leaderBanner":"http://www.edp-audio.fr/images/banners/OTO_IV_banner_FR_Audioinfos_2018_990x128_April.gif",
+         "leaderBannerLink":"https://otometrics.natus.com/fr-fr/evenements-nouvelles/easier-verification-sivantos",
+         "banner2":"http://www.edp-audio.fr/images/banners/phonak-mai-2018-b.jpg",
+         "banner2Link":"https://www.phonakpro.com/fr/fr/about-phonak/technologies/rechargeable-technology.html?utm_source=audioinfos&utm_medium=newsletter&utm_campaign=0518 "
        },
        "rh":{
          "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
-         "leaderBanner":"http://www.edp-audio.fr/images/newsletter/banners/profania-dec2.jpg",
-         "leaderBannerLink":"https://www.profonia.com/?utm_campaign=pub1712&utm_medium=adPress&utm_source=edpNewsLanding&utm_content=ban728",
-         "banner2":"http://www.edp-audio.fr/images/newsletter/banners/output_nvvEZn.gif",
-         "banner2Link":"http://abos.edpsante.com/guide-audio-infos-les-solutions-pour-se-premunir-du-bruit.htm"
+         "leaderBanner":"http://www.edp-audio.fr/images/newsletter/banners/banniere-abonnement-audiofr-728x90.jpg",
+         "leaderBannerLink":"http://abos.edpsante.com/audio-infos-france.htm?utm_source=rh-11-avril-2018&utm_medium=rh&utm_content=banniere_abonnezvous&utm_campaign=audio",
+         "banner2":"http://www.edp-audio.fr/images/newsletter/banners/solution-bruit.gif",
+         "banner2Link":"http://abos.edpsante.com/supplement-audio-infos-les-solutions-pour-se-premunir-du-bruit-l-offre-du-marche-2018-2019.htm"
        },
        "flash":{
-         "leaderBanner":"http://www.edp-audio.fr/images/newsletter/banners/advantage-oto.jpg",
-         "leaderBannerLink":"http://www.otometrics.com/fr-FR/contactez-nous",
-         "banner2":"http://www.edp-audio.fr/images/newsletter/banners/output-ziaeof.gif",
-         "banner2Link":"http://abos.edpsante.com/supplement-management-2016-2017.htm"
+         "leaderBanner":"http://www.edp-audio.fr/images/banners/OTO_IV_banner_FR_Audioinfos_2018_990x128_April.gif",
+         "leaderBannerLink":"https://otometrics.natus.com/fr-fr/evenements-nouvelles/easier-verification-sivantos",
+         "banner2":"http://www.edp-audio.fr/images/newsletter/banners/solution-bruit.gif",
+         "banner2Link":"http://abos.edpsante.com/supplement-audio-infos-les-solutions-pour-se-premunir-du-bruit-l-offre-du-marche-2018-2019.htm"
        },
        "topfive":{
          "leaderBanner":"http://www.edp-audio.fr/images/newsletter/banners/advantage-oto.jpg",
@@ -39,6 +39,7 @@
         "rh"        : ["une","offres","demandes"]
 					},
 					"companies": {
+                  "auchan"             : "https://www.edp-audio.fr/images/newsletter/rh/auchan.gif",
 									"acousti-centre"     : "http://www.edp-audio.fr/images/newsletter/rh/Logo_Acousticentre_Baseline.jpg",
 									"acuitis"            : "http://www.edp-audio.fr/images/newsletter/rh/acuitis.jpg",
 									"afflelou"           : "http://www.edp-audio.fr/images/newsletter/rh/logo-afflelou.gif",
@@ -57,6 +58,7 @@
 									"audition-langlet"   : "http://www.edp-audio.fr/images/newsletter/rh/audition-langlet.jpg",
 									"audition-mutualiste": "http://www.edp-audio.fr/images/newsletter/rh/audition-mutualiste4156.jpg",
 									"audition-sante"     : "http://www.edp-audio.fr/images/newsletter/rh/audition-sante.jpg",
+									"auditis"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-auditis.gif",
 									"auris"              : "",
 									"converson"          : "http://www.edp-audio.fr/images/newsletter/rh/conversons.jpg",
 									"costco"             : "",
@@ -82,7 +84,9 @@
 									"solusons"           : "http://www.edp-audio.fr/images/newsletter/rh/logo-solusons2.jpg",
 									"sonance-audition"   : "http://www.edp-audio.fr/images/newsletter/rh/SONANCE_AUDITION.jpg",
 									"team-optic"         : "http://www.edp-audio.fr/images/newsletter/rh/1382779826.jpg",
-									"unisson"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-unisson.jpg"
+									"unisson"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-unisson.jpg",
+									"vivason"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-vivason.gif"
+									
 
 					}
 		},
@@ -132,8 +136,8 @@
      "logo": "http://www.edp-biologie.fr/templates/magbio/images/logos/logo_edpbio.png",
      "banners": {
        "newsletter":{
-         "leaderBanner":"http://www.edp-biologie.fr/images/banners/banniere-mars-siemens.jpg",
-         "leaderBannerLink":"https://www.healthcare.siemens.fr/integrated-chemistry/systems/atellica-solution-analyzers",
+         "leaderBanner":"http://www.edp-biologie.fr/images/banners/siemens-banner-april.jpg",
+         "leaderBannerLink":"https://www.healthcare.siemens.fr/integrated-chemistry/atellica-whitepaper",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/werfen.jpg",
          "banner2Link":"http://fr.werfen.com/",
          "squareBanner1":"http://www.edp-biologie.fr/images/banners/banniere_abo_bioinf_300x250pxfixe.jpg",
@@ -151,8 +155,8 @@
 											"banner2":""
 							},
 							"flash":{
-											"leaderBanner":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/4/fisher.gif",
-											"leaderBannerLink":"http://www.thermofisher.com/fr/fr/home/clinical/diagnostic-testing/instruments-automation/hplc-mass-spectrometry-instruments-software/cascadion-sm-clinical-analyzer.html",
+											"leaderBanner":"http://www.edp-biologie.fr/images/banners/siemens-banner-april.jpg",
+											"leaderBannerLink":"https://www.healthcare.siemens.fr/integrated-chemistry/atellica-whitepaper",
 											"banner2":""
 							}
      },
@@ -299,7 +303,7 @@
 
   "dentaire":{
      "name": "dentaire",
-     "color": "#00BFD7",
+     "color": "#4BB9F1",
      "paragraph" : 0,
      "logo": "http://www.edp-dentaire.fr/templates/magdent/images/logos/logo_edpdent.png",
      "banners": {
@@ -360,24 +364,22 @@
 
   "dentoscope":{
      "name": "dentoscope",
-     "color": "#008AC9",
-     "subscribeLink" : "http://online.fliphtml5.com/huvk/glim/#p=1",
+     "color": "#4BB9F1",
+     "subscribeLink" : "http://www.librairie-garanciere.com/solutions-cabinet-dentaire.htm",
      "paragraph" : 0,
-     "logo": "http://www.edp-dentaire.fr/templates/magdent/images/logos/logo_edpdent.png",
+     "logo": "http://kwyu.mjt.lu/img/n6o8/b/xwvx/15iy4.png",
      "banners": {
        "newsletter":{
-         "banner0": "http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/931-Dentoscope-CS-8100-Family-728x90.jpg",
-         "banner0link":"http://www.edp-dentaire.fr/produits/2168-cs-8100-3d-carestream",
-         "banner1":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/A-dec-Eevolue-700x80.jpg.jpeg",
-         "banner1link":"http://www.edp-dentaire.fr/produits/nouveautes/1756-adec-nouveaux-tabourets-521-522",
+         "banner0": "http://www.edp-dentaire.fr/images/banners/banniere-wh-libertease-2018.jpg",
+         "banner0link":"https://www.wh.com/fr_france/service/libertease/?WT.mc_id=eb2017012401",
+         "banner1":"http://kwyu.mjt.lu/img/n6o8/b/jpu/3xlz.jpeg",
+         "banner1link":"http://fr.a-dec.com/fr/Products/Dental-Chairs/Dental-Stools/A-dec-500?sc_lang=fr?utm_source=Independentaire&utm_medium=Banner&utm_content=Banner&utm_campaign=500Stools&src=500Stools",
          "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Banniere648x60.jpg",
          "banner2link":"http://www.edp-dentaire.fr/produits/nouveautes/2148-apport-du-cone-beam-dans-la-pratique-omnipraticienne",
-         "banner3":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/728x90sterilport.jpg",
-         "banner3link":"https://www.facebook.com/dentalartfrancais",
-         "banner4":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/MR_X52D3Dbanner700x80EDPDent_Oct16.jpg",
-         "banner4link":"http://www.edp-dentaire.fr/produits/2186-hyperion-x5-easy-3d-2d-diagnostics",
-         "banner5":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Banniere-newsletter-EDP-dentaire-30ko.jpg",
-         "banner5link":"http://www.edp-dentaire.fr/produits/2169-implantmed-respecte-vos-besoins-aujourd-hui-et-demain"
+         "banner3":"http://kwyu.mjt.lu/img/n6o8/b/xxp8/157it.png",
+         "banner3link":"https://www.invisalign-go.fr/discover-go",
+         "banner4":"https://www.edp-dentaire.fr/images/banners/banniere-7-familles.jpg",
+         "banner4link":"http://www.henryschein-materiel.fr/catalogue/jeu-de-7-familles/"
        },
        "RH":{
          "leaderBanner":"",
@@ -393,7 +395,7 @@
      },
      "url_base": "http://www.edp-dentaire.fr/",
      "sections": {
-        "newsletter": ["Une","actualites","produits"]
+        "newsletter": ["une","actualites","produits","testePourVous","gammeProduits","livresMois"]
      }
   },
 

@@ -1,0 +1,55 @@
+<table class="container" bgcolor="#ffffff" style="background-color:#ffffff">
+  <tr>
+    <td>
+      <!--HEADER-->
+      <table class="row header" bgcolor="#ffffff" style="background-color:#ffffff">
+        <tr>
+          <td class="wrapper">
+            <table class="seven columns">
+              <tr>
+                <td class="left-text-pad">
+                  <a href="<?= Atomik::url($link)?>"><img src="<?= $logo ?>" width="250" style="width:250px;margin-bottom: 10px"/></a><br />
+                  <a href="http://www.librairie-garanciere.com/dentoscope.htm"><img src="http://kwyu.mjt.lu/img/n6o8/b/qiq/438m.png"width="250" style="width:250px"/></a>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+          </td>
+          <td class="wrapper last" style="vertical-align:middle">
+            <table class="four columns">
+              <tr>
+                <td>
+                  <table class="button">
+                    <tr>
+                      <td>
+                         <a href="<?= Atomik::url($subscribeLink)?>"><?= Atomik\Translations::translate('S\'abonner à
+Solutions Cabinet dentaire
+')?></a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <table class="row date">
+        <tr>
+         <td class="wrapper last offset-by-five">
+           <table class="seven columns">
+             <tr>
+               <td class="right-text-pad">
+                 <?= $this->formatDate($locale, $template, $issue)?>
+               </td>
+               <td class="expander"></td>
+             </tr>
+           </table>
+         </td>
+        </tr>
+      </table>
+      <!--/HEADER-->
+    </td>
+  </tr>
+</table>

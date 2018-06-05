@@ -29,7 +29,7 @@ class Test implements Iterator
 
     public function valid()
     {
-           return $this->position<=self::MAX;
+        return $this->position<=self::MAX;
     }
 
     public function rewind()
