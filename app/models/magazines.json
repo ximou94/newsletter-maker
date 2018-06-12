@@ -17,8 +17,8 @@
          "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
          "leaderBanner":"http://www.edp-audio.fr/images/newsletter/banners/banniere-abonnement-audiofr-728x90.jpg",
          "leaderBannerLink":"http://abos.edpsante.com/audio-infos-france.htm?utm_source=rh-11-avril-2018&utm_medium=rh&utm_content=banniere_abonnezvous&utm_campaign=audio",
-         "banner2":"http://www.edp-audio.fr/images/newsletter/banners/solution-bruit.gif",
-         "banner2Link":"http://abos.edpsante.com/supplement-audio-infos-les-solutions-pour-se-premunir-du-bruit-l-offre-du-marche-2018-2019.htm"
+         "banner2":"https://www.edp-audio.fr/images/newsletter/rh/rayovac-sub.gif",
+         "banner2Link":"https://rayovac.eu/fr-fr/customer-service/contact-us?utm_source=audioinfosnewsletter&utm_medium=banner&utm_campaign=subscriptionoffer&utm_content=fr"
        },
        "flash":{
          "leaderBanner":"http://www.edp-audio.fr/images/banners/OTO_IV_banner_FR_Audioinfos_2018_990x128_April.gif",
@@ -66,6 +66,7 @@
 									"doctocare"          : "http://www.edp-audio.fr/images/newsletter/rh/doctocare.gif",
 									"dyapason"           : "http://www.edp-audio.fr/images/newsletter/rh/dyapason-logo.jpg",
 									"entendre"           : "http://www.edp-audio.fr/images/newsletter/rh/new-logo-entendre.gif",
+                  "equilibre"          : "http://www.edp-audio.fr/images/newsletter/rh/logo-equilibre.jpg",
 									"eovi"               : "http://www.edp-audio.fr/images/newsletter/rh/erecrut-phonemploi-eovi-mutuelle.jpg",
 									"grand-audition"     : "http://www.edp-audio.fr/images/newsletter/rh/grand-audition-logo2.gif",
 									"grand-vision"       : "http://www.edp-audio.fr/images/newsletter/rh/logo-grand-vision.gif",
@@ -374,8 +375,8 @@
          "banner0link":"https://www.wh.com/fr_france/service/libertease/?WT.mc_id=eb2017012401",
          "banner1":"http://kwyu.mjt.lu/img/n6o8/b/jpu/3xlz.jpeg",
          "banner1link":"http://fr.a-dec.com/fr/Products/Dental-Chairs/Dental-Stools/A-dec-500?sc_lang=fr?utm_source=Independentaire&utm_medium=Banner&utm_content=Banner&utm_campaign=500Stools&src=500Stools",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/3/Banniere648x60.jpg",
-         "banner2link":"http://www.edp-dentaire.fr/produits/nouveautes/2148-apport-du-cone-beam-dans-la-pratique-omnipraticienne",
+         "banner2":"https://www.edp-dentaire.fr/images/banners/2018/email-condor.png",
+         "banner2link":"http://condor.biotech-dental.com/",
          "banner3":"http://kwyu.mjt.lu/img/n6o8/b/xxp8/157it.png",
          "banner3link":"https://www.invisalign-go.fr/discover-go",
          "banner4":"https://www.edp-dentaire.fr/images/banners/banniere-7-familles.jpg",
