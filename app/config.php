@@ -1,7 +1,7 @@
 <?php
 
 Atomik::set(array(
-    'base_dir' => 'C:\wamp64\www\responsive-newsletter-maker-V3',
+    'base_dir' => 'C:\wamp642\www\responsive-newsletter-maker-V3',
     'plugins' => array(
         'DebugBar' => array(
             // if you don't include jquery yourself as it is done in the

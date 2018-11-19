@@ -8,10 +8,10 @@
      "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
      "banners": {
        "newsletter":{
-         "leaderBanner":"http://www.edp-audio.fr/images/banners/OTO_IV_banner_FR_Audioinfos_2018_990x128_April.gif",
-         "leaderBannerLink":"https://otometrics.natus.com/fr-fr/evenements-nouvelles/easier-verification-sivantos",
-         "banner2":"http://www.edp-audio.fr/images/banners/phonak-mai-2018-b.jpg",
-         "banner2Link":"https://www.phonakpro.com/fr/fr/about-phonak/technologies/rechargeable-technology.html?utm_source=audioinfos&utm_medium=newsletter&utm_campaign=0518 "
+         "leaderBanner":"http://www.edp-audio.fr/images/banners/otoscan.gif",
+         "leaderBannerLink":"https://otometrics.natus.com/fr-fr/%C3%A9v%C3%A9nements-nouvelles/nouvelles/otometrics-otoscan-transforme-lavenir-de-laudioprothese",
+         "banner2":"http://www.edp-audio.fr/images/newsletter/banners/phonak-roadshow-newsletter-2018.jpg",
+         "banner2Link":"https://www.roadshowphonak2018.fr/?utm_source=audioinfos&utm_medium=newsletter&utm_campaign=rs2018#/"
        },
        "rh":{
          "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
@@ -21,8 +21,8 @@
          "banner2Link":"https://rayovac.eu/fr-fr/customer-service/contact-us?utm_source=audioinfosnewsletter&utm_medium=banner&utm_campaign=subscriptionoffer&utm_content=fr"
        },
        "flash":{
-         "leaderBanner":"http://www.edp-audio.fr/images/banners/OTO_IV_banner_FR_Audioinfos_2018_990x128_April.gif",
-         "leaderBannerLink":"https://otometrics.natus.com/fr-fr/evenements-nouvelles/easier-verification-sivantos",
+         "leaderBanner":"http://www.edp-audio.fr/images/banners/otoscan.gif",
+         "leaderBannerLink":"https://otometrics.natus.com/fr-fr/%C3%A9v%C3%A9nements-nouvelles/nouvelles/otometrics-otoscan-transforme-lavenir-de-laudioprothese",
          "banner2":"http://www.edp-audio.fr/images/newsletter/banners/solution-bruit.gif",
          "banner2Link":"http://abos.edpsante.com/supplement-audio-infos-les-solutions-pour-se-premunir-du-bruit-l-offre-du-marche-2018-2019.htm"
        },
@@ -39,14 +39,17 @@
         "rh"        : ["une","offres","demandes"]
 					},
 					"companies": {
-                  "auchan"             : "https://www.edp-audio.fr/images/newsletter/rh/auchan.gif",
+                  "100%-audition"      : "https://www.edp-audio.fr/images/newsletter/rh/100e.png",
+									"auchan"             : "https://www.edp-audio.fr/images/newsletter/rh/auchan.gif",
 									"acousti-centre"     : "http://www.edp-audio.fr/images/newsletter/rh/Logo_Acousticentre_Baseline.jpg",
 									"acuitis"            : "http://www.edp-audio.fr/images/newsletter/rh/acuitis.jpg",
+                  "audiologys"         : "http://www.edp-audio.fr/images//newsletter/rh/audiologys-logo.gif",
 									"afflelou"           : "http://www.edp-audio.fr/images/newsletter/rh/logo-afflelou.gif",
 									"agir-pour-audition" : "http://www.edp-audio.fr/images/newsletter/rh/agir-anhoury.jpg",
 									"amplifon"           : "http://www.edp-audio.fr/images/newsletter/rh/amplifon-newlogo.jpg",
 									"amt"                : "http://www.edp-audio.fr/images/newsletter/rh/235-portrait.jpg",
 									"audibene"           : "http://www.edp-audio.fr/images/newsletter/rh/audibene.jpg",
+                  "atol"               : "http://www.edp-audio.fr/images/newsletter/rh/atol-opticiens.jpg",
 									"audika"             : "http://www.edp-audio.fr/images/newsletter/rh/logo-fond-audika.jpg",
 									"audilab"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-audilab.jpg",
 									"audio-2000"         : "http://www.edp-audio.fr/images/newsletter/rh/logo-audio-2000v2.jpg",
@@ -60,13 +63,14 @@
 									"audition-sante"     : "http://www.edp-audio.fr/images/newsletter/rh/audition-sante.jpg",
 									"auditis"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-auditis.gif",
 									"auris"              : "",
+									"baabi"              : "http://www.edp-audio.fr/images/newsletter/rh/baabi.jpg",
 									"converson"          : "http://www.edp-audio.fr/images/newsletter/rh/conversons.jpg",
 									"costco"             : "",
 									"demande"            : "http://www.edp-audio.fr/images/newsletter/rh/bonhomme_et_sa_grosse_loupe_2.jpg",
 									"doctocare"          : "http://www.edp-audio.fr/images/newsletter/rh/doctocare.gif",
 									"dyapason"           : "http://www.edp-audio.fr/images/newsletter/rh/dyapason-logo.jpg",
 									"entendre"           : "http://www.edp-audio.fr/images/newsletter/rh/new-logo-entendre.gif",
-                  "equilibre"          : "http://www.edp-audio.fr/images/newsletter/rh/logo-equilibre.jpg",
+									"equilibre"          : "http://www.edp-audio.fr/images/newsletter/rh/logo-equilibre.jpg",
 									"eovi"               : "http://www.edp-audio.fr/images/newsletter/rh/erecrut-phonemploi-eovi-mutuelle.jpg",
 									"grand-audition"     : "http://www.edp-audio.fr/images/newsletter/rh/grand-audition-logo2.gif",
 									"grand-vision"       : "http://www.edp-audio.fr/images/newsletter/rh/logo-grand-vision.gif",
@@ -77,6 +81,7 @@
 									"mutualite-francaise": "http://www.edp-audio.fr/images/newsletter/rh/logo-mutualite-francaise.jpg",
 									"optical"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-optical-center-2.jpg",
 									"optic-2000"         : "http://www.edp-audio.fr/images/newsletter/rh/optic-2000.jpg",
+									"oreille"            : "http://www.edp-audio.fr/images//newsletter/rh/oreille.gif", 
 									"otometrics"         : "http://www.edp-audio.fr/images/newsletter/rh/otometrics-logo.jpg",
 									"phonak"             : "http://www.edp-audio.fr/images/newsletter/rh/Logo_Phonak_life.jpg",
 									"pieraud"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-pieraut.jpg",
@@ -85,9 +90,12 @@
 									"solusons"           : "http://www.edp-audio.fr/images/newsletter/rh/logo-solusons2.jpg",
 									"sonance-audition"   : "http://www.edp-audio.fr/images/newsletter/rh/SONANCE_AUDITION.jpg",
 									"team-optic"         : "http://www.edp-audio.fr/images/newsletter/rh/1382779826.jpg",
+                  "starkey"            : "http://www.edp-audio.fr/images/newsletter/rh/starkey.gif",
 									"unisson"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-unisson.jpg",
-									"vivason"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-vivason.gif"
-									
+                  "visaudio"           : "http://www.edp-audio.fr/images/newsletter/rh/visaudio.gif",
+									"vivason"            : "http://www.edp-audio.fr/images/newsletter/rh/logo-vivason.gif",
+                  "wernert"            : "http://www.edp-audio.fr/images/newsletter/rh/wernert.jpg"
+ 									
 
 					}
 		},
@@ -100,8 +108,8 @@
      "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_audiology_infos.png",
      "banners": {
        "newsletter":{
-         "leaderBanner": "http://www.edp-audio.fr/images/newsletter/rh/SIO-2018-toulouse-banniere.jpg",
-         "leaderBannerLink":"http://www.sio2018-toulouse.com/",
+         "leaderBanner": "http://www.edp-audio.fr/images/newsletter/banners/Banniere-otoforum-728x90.jpg",
+         "leaderBannerLink":"http://www.otoforum2018.com/",
          "banner2":"",
          "banner2Link":""
        },
@@ -137,10 +145,10 @@
      "logo": "http://www.edp-biologie.fr/templates/magbio/images/logos/logo_edpbio.png",
      "banners": {
        "newsletter":{
-         "leaderBanner":"http://www.edp-biologie.fr/images/banners/siemens-banner-april.jpg",
-         "leaderBannerLink":"https://www.healthcare.siemens.fr/integrated-chemistry/atellica-whitepaper",
-         "banner2":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/werfen.jpg",
-         "banner2Link":"http://fr.werfen.com/",
+         "leaderBanner":"https://www.edp-biologie.fr/images/banners/siemens-octobre-2018.jpg",
+         "leaderBannerLink":"https://www.healthcare.siemens.fr/news-and-events/conferences-events-new/jib-2018",
+         "banner2":"http://www.edp-biologie.fr/images/banners/RICAI2018-oct.jpg",
+         "banner2Link":"http://www.ricai.fr/",
          "squareBanner1":"http://www.edp-biologie.fr/images/banners/banniere_abo_bioinf_300x250pxfixe.jpg",
          "squareBanner1link":"http://abos.edpsante.com/biologiste-infos.htm",
 									"squareBanner2":"http://www.edp-biologie.fr/images/banners/Le-biologiste-medical_Banniere-300-x-300.gif",
@@ -156,8 +164,8 @@
 											"banner2":""
 							},
 							"flash":{
-											"leaderBanner":"http://www.edp-biologie.fr/images/banners/siemens-banner-april.jpg",
-											"leaderBannerLink":"https://www.healthcare.siemens.fr/integrated-chemistry/atellica-whitepaper",
+											"leaderBanner":"https://www.edp-biologie.fr/images/banners/siemens-octobre-2018.jpg",
+											"leaderBannerLink":"https://www.healthcare.siemens.fr/news-and-events/conferences-events-new/jib-2018",
 											"banner2":""
 							}
      },
@@ -175,8 +183,8 @@
      "logo": "http://www.edp-nutrition.fr/templates/magnutr/images/logos/logo_edpnutr.png",
      "banners": {
        "newsletter":{
-         "leaderBanner": "http://www.edp-nutrition.fr/images/banners/newsletter/banniere-restoco.JPG",
-         "leaderBannerLink":"http://www.salonrestauco.com/",
+         "leaderBanner": "http://www.edp-nutrition.fr/images/banners/lesjfn.gif",
+         "leaderBannerLink":"https://www.lesjfn.fr/",
          "banner2":"http://www.edp-nutrition.fr/images/banners/newsletter/banniere-JDP-2018.jpg",
          "banner2Link":"https://www.journeesdeprintemps.com/"
        },
