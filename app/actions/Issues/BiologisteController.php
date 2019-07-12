@@ -12,10 +12,18 @@ class BiologisteController extends IssuesController{
     $this->setIssue('biologiste');
     parent::index();
   }
-
+  
+  public function clinique($url){
+    if ($this->count === 0) {
+      BlocsController::section('clinique');
+    }
+    BlocsController::article($url,'blocs/article');
+     $this->count++;
+  }
+  
   public function produits($url){
     if ($this->count === 0) {
-      BlocsController::section('produits');
+      BlocsController::section('informations produits');
     }
     BlocsController::article($url,'blocs/article');
      $this->count++;

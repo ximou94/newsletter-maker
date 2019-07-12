@@ -123,7 +123,7 @@ class BlocsController extends Atomik\Controller\Controller{
     $funtionName = __FUNCTION__;
     $this->viewOutput = Atomik::render($view,array(
       'title'    => $this->title,
-      'subtitle' => $this->subtitle,
+      'subtitle' => strtoupper($this->subtitle).'.',
       'text'     => $this->text,
       'img'      => $this->img,
       'link'     => $this->link,
