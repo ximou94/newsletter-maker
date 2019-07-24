@@ -70,7 +70,7 @@ class DataController extends Atomik\Controller\Controller
   }
   public function fetchPlace()
   {
-    $elements = $this->_xpath->query("//td[@class='ev_detail']/b[preceding::br]");
+    $elements = $this->_xpath->query("//td[@class='ev_detail']");
     foreach ($elements as $element) {
       return $element->nodeValue;
     }

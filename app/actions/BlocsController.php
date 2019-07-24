@@ -113,7 +113,7 @@ class BlocsController extends Atomik\Controller\Controller{
     $data     = new DataController($url);
     $this->title    = $data->fetchTitle('h1',0);
     if($subtitle == true){
-      $this->subtitle = $data->fetchTitle('h3',0);
+      $this->subtitle = strtoupper($data->fetchTitle('h3',0)).'.';
     }
     $this->text     = $data->fetchText($this->getParagraph());
     $color          = $this->getColor();
@@ -123,7 +123,7 @@ class BlocsController extends Atomik\Controller\Controller{
     $funtionName = __FUNCTION__;
     $this->viewOutput = Atomik::render($view,array(
       'title'    => $this->title,
-      'subtitle' => strtoupper($this->subtitle).'.',
+      'subtitle' => $this->subtitle,
       'text'     => $this->text,
       'img'      => $this->img,
       'link'     => $this->link,

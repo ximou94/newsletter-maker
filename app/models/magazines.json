@@ -14,10 +14,10 @@
        },
        "rh":{
          "logo": "http://www.edp-audio.fr/templates/magaudio/images/logos/logo_edpaudio.png",
-         "leaderBanner":"http://www.edp-audio.fr/images/newsletter/banners/banniere-abonnement-audiofr-728x90.jpg",
-         "leaderBannerLink":"http://abos.edpsante.com/audio-infos-france.htm?utm_source=rh-11-avril-2018&utm_medium=rh&utm_content=banniere_abonnezvous&utm_campaign=audio",
-         "banner2":"https://www.edp-audio.fr/images/newsletter/rh/rayovac-sub.gif",
-         "banner2Link":"https://rayovac.eu/fr-fr/customer-service/contact-us?utm_source=audioinfosnewsletter&utm_medium=banner&utm_campaign=subscriptionoffer&utm_content=fr"
+         "leaderBanner":"https://www.edp-audio.fr/images/newsletter/banners/signia-styletto-2019.gif",
+         "leaderBannerLink":"https://www.signia-pro.fr/",
+         "banner2":"",
+         "banner2Link":""
        },
        "flash":{
          "leaderBanner":"http://www.edp-audio.fr/images/banners/otoscan.gif",
@@ -235,8 +235,8 @@
          "leaderBanner":"http://www.audiology-worldnews.com/images/banners/newsletter2018/power-one-2019-news.gif",
          "leaderBannerLink":"http://www.powerone-batteries.com",
          "banner1":"http://image.news.groupe-edp.fr/lib/fe8c1272776c0c7871/m/2/Widex_Banner_630x315.png",
-         "banner2":"http://www.audiology-worldnews.com/images/aaa-2019.jpg",
-         "banner2Link":"https://www.audiology.org/conferences/audiologynow"
+         "banner2":"http://www.audiology-worldnews.com/images/banner/euha-64-news.jpg",
+         "banner2Link":"http://www.euha.org/congress/ticketshop-en/"
 
        },
        "flash":{
